@@ -1,0 +1,14 @@
+employee_id|first_name|last_name|email|job_title|phone|hire_date
+102|Emma|Perkins|emma.perkins@example.com|Marketing Manager|515.123.5555|2016-02-17
+37|Ibrahim|Alexander|ibrahim.alexander@example.com|Stock Clerk|650.127.1634|2016-02-06
+100|Thea|Hawkins|thea.hawkins@example.com|Shipping Clerk|650.507.9844|2016-01-13
+104|Harper|Spencer|harper.spencer@example.com|Human Resources Representative|515.123.7777|2016-06-07
+101|Annabelle|Dunn|annabelle.dunn@example.com|Administration Assistant|515.123.4444|2016-09-17
+103|Amelie|Hudson|amelie.hudson@example.com|Marketing Representative|603.123.6666|2016-08-17
+107|Summer|Payne|summer.payne@example.com|Public Accountant|515.123.8181|2016-06-07
+15|Rory|Kelly|rory.kelly@example.com|Purchasing Manager|515.127.4561|2016-12-07
+106|Rose|Stephens|rose.stephens@example.com|Accounting Manager|515.123.8080|2016-06-07
+22|Liam|Henderson|liam.henderson@example.com|Stock Manager|650.123.2234|2016-04-10
+105|Gracie|Gardner|gracie.gardner@example.com|Public Relations Representative|515.123.8888|2016-06-07
+99|Bella|Stone|bella.stone@example.com|Shipping Clerk|650.507.9833|2016-06-21
+12|Elliott|James|elliott.james@example.com|Accountant|515.124.4369|2016-09-30
