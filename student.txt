@@ -1,0 +1,13 @@
+00128,Zhang,102
+12345,Shankar,32
+19991,Brandt,80
+23121,Chavez,110
+44553,Peltier,56
+45678,Levy,46
+54321,Williams,54
+55739,Sanchez,38
+70557,Snow,0
+76543,Brown,58
+76653,Aoi,60
+98765,Bourikas,98
+98988,Tanaka,120
