@@ -154,7 +154,7 @@
 2007-12-12|ASHMORE GLOBAL OPPORTUNITIES LIMITED|Financials|Financial Services|Guernsey|Europe|MAIN MARKET|No|7.92
 2006-10-17|ASHMORE GROUP PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|2543.06
 2018-07-06|ASHOKA INDIA EQUITY INVESTMENT TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|55.47
-1985-12-06|ASHPOL PLC|NULL|NULL|United Kingdom|Europe|MAIN MARKET|No|0.00
+1985-12-06|ASHPOL PLC|||United Kingdom|Europe|MAIN MARKET|No|0.00
 1990-10-08|ASHTEAD GROUP PLC|Industrials|Industrial Goods and Services|United Kingdom|Europe|MAIN MARKET|No|7932.57
 1996-09-16|ASIA CEMENT CORPORATION|Industrials|Construction and Materials|Taiwan|Asia|PROFESSIONAL SECURITIES MARKET|Yes|0.00
 1987-09-07|ASIA DRAGON TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|441.90
@@ -236,7 +236,7 @@
 1999-07-12|BATM ADVANCED COMMUNICATIONS LD|Telecommunications|Telecommunications|Israel|Middle East|MAIN MARKET|Yes|198.13
 2016-12-02|BB HEALTHCARE TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|541.62
 2011-12-21|BBGI SICAV S.A.|Financials|Financial Services|Luxembourg|Europe|MAIN MARKET|Yes|1014.64
-1995-04-13|BBVA CAPITAL FUNDING LD|NULL|NULL|Cayman Islands|North America|MAIN MARKET|Yes|0.00
+1995-04-13|BBVA CAPITAL FUNDING LD|||Cayman Islands|North America|MAIN MARKET|Yes|0.00
 2016-05-10|BE HEARD GROUP PLC|Consumer Discretionary|Media|United Kingdom|Europe|AIM|No|2.49
 2002-11-12|BEAZLEY PLC|Financials|Insurance|United Kingdom|Europe|MAIN MARKET|No|2069.94
 2017-11-27|BEEKS FINANCIAL CLOUD GROUP PLC|Technology|Technology|United Kingdom|Europe|AIM|No|41.36
@@ -679,7 +679,7 @@
 2000-12-22|FIRST PROPERTY GROUP PLC|Financials|Financial Services|United Kingdom|Europe|AIM|No|35.32
 1995-06-16|FIRSTGROUP PLC|Consumer Discretionary|Travel and Leisure|United Kingdom|Europe|MAIN MARKET|No|614.98
 1996-12-31|FISHER (JAMES) & SONS PLC|Industrials|Industrial Goods and Services|United Kingdom|Europe|MAIN MARKET|No|633.20
-1999-08-12|FISHGUARD & ROSSLARE RAILWAYS & HARBOURS COMPANY|NULL|NULL|United Kingdom|Europe|MAIN MARKET|No|0.00
+1999-08-12|FISHGUARD & ROSSLARE RAILWAYS & HARBOURS COMPANY|||United Kingdom|Europe|MAIN MARKET|No|0.00
 2000-03-30|FISKE PLC|Financials|Financial Services|United Kingdom|Europe|AIM|No|7.02
 2008-10-14|FLETCHER KING PLC|Real Estate|Real Estate|United Kingdom|Europe|AIM|No|2.72
 2014-05-21|FLOWTECH FLUIDPOWER PLC|Industrials|Industrial Goods and Services|United Kingdom|Europe|AIM|No|33.76
@@ -958,7 +958,7 @@
 1996-03-28|INVESCO INCOME GROWTH TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|127.06
 2006-11-23|INVESCO PERPETUAL SELECT TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|89.00
 1988-03-08|INVESCO PERPETUAL UK SMALLER COMPANIES INVESTMENT TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|128.54
-1996-04-16|INVESTEC INVESTMENT TRUST PLC|NULL|NULL|United Kingdom|Europe|MAIN MARKET|No|0.00
+1996-04-16|INVESTEC INVESTMENT TRUST PLC|||United Kingdom|Europe|MAIN MARKET|No|0.00
 2002-07-29|INVESTEC PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET / ADMISSION TO TRADING ONLY|No|1122.50
 1964-07-23|INVESTMENT COMPANY PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|12.17
 2008-05-09|IOFINA PLC|Energy|Energy|United Kingdom|Europe|AIM|No|30.99
@@ -1627,7 +1627,7 @@
 2018-12-11|SDCL ENERGY EFFICIENCY INCOME TRUST PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|296.35
 2008-12-08|SDI GROUP PLC|Health Care|Health Care|United Kingdom|Europe|AIM|No|46.07
 1999-12-07|SDL PLC|Technology|Technology|United Kingdom|Europe|MAIN MARKET|No|359.64
-2018-01-08|SDV 2025 ZDP PLC|NULL|NULL|United Kingdom|Europe|MAIN MARKET|No|0.00
+2018-01-08|SDV 2025 ZDP PLC|||United Kingdom|Europe|MAIN MARKET|No|0.00
 2019-05-28|SDX ENERGY PLC|Energy|Energy|United Kingdom|Europe|AIM|No|27.64
 2015-11-17|SEALAND CAPITAL GALAXY LIMITED|Technology|Technology|Cayman Islands|North America|MAIN MARKET|Yes|2.02
 2016-07-26|SEC NEWGATE S.P.A.|Consumer Discretionary|Media|Italy|Europe|AIM|Yes|8.61
@@ -1655,7 +1655,7 @@
 2005-02-01|SHEARWATER GROUP PLC|Technology|Technology|United Kingdom|Europe|AIM|No|46.87
 2017-12-18|SHEFA GEMS LTD|Basic Materials|Basic Resources|Israel|Middle East|MAIN MARKET|Yes|4.31
 2013-05-07|SHERBORNE INVESTORS (GUERNSEY) B LIMITED|Financials|Financial Services|Guernsey|Europe|MAIN MARKET|No|20.45
-2017-07-12|SHERBORNE INVESTORS (GUERNSEY) C LIMITED|NULL|NULL|Guernsey|Europe|MAIN MARKET|No|197.40
+2017-07-12|SHERBORNE INVESTORS (GUERNSEY) C LIMITED|||Guernsey|Europe|MAIN MARKET|No|197.40
 2016-02-26|SHIELD THERAPEUTICS PLC|Health Care|Health Care|United Kingdom|Europe|AIM|No|103.62
 1972-01-26|SHIRES INCOME PLC|Financials|Financial Services|United Kingdom|Europe|MAIN MARKET|No|61.69
 2014-05-23|SHOE ZONE PLC|Consumer Discretionary|Retail|United Kingdom|Europe|AIM|No|41.74
@@ -1730,7 +1730,7 @@
 2005-09-15|STEPPE CEMENT LTD|Industrials|Construction and Materials|Malaysia|Asia|AIM|Yes|51.47
 2002-10-21|STERLING ENERGY PLC|Energy|Energy|United Kingdom|Europe|AIM|No|17.27
 2005-11-16|STHREE PLC|Industrials|Industrial Goods and Services|United Kingdom|Europe|MAIN MARKET|No|304.16
-1949-09-12|STILFONTEIN GOLD MINING CO LD|NULL|NULL|South Africa|Africa|MAIN MARKET|Yes|0.00
+1949-09-12|STILFONTEIN GOLD MINING CO LD|||South Africa|Africa|MAIN MARKET|Yes|0.00
 2007-03-28|STM GROUP PLC|Financials|Financial Services|Isle of Man|Europe|AIM|No|13.66
 2007-09-20|STOBART GROUP LD|Industrials|Industrial Goods and Services|Guernsey|Europe|MAIN MARKET|No|177.59
 2013-10-25|STOCK SPIRITS GROUP PLC|Consumer Staples|Food, Beverage and Tobacco|United Kingdom|Europe|MAIN MARKET|No|328.00
