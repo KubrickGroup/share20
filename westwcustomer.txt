@@ -1,0 +1,91 @@
+﻿ALFKI|Alfreds Futterkiste|Berlin|12209|Germany
+ANATR|Ana Trujillo Emparedados y helados|México D.F.|05021|Mexico
+ANTON|Antonio Moreno Taquería|México D.F.|05023|Mexico
+AROUT|Around the Horn|London|WA1 1DP|UK
+BERGS|Berglunds snabbköp|Luleå|S-958 22|Sweden
+BLAUS|Blauer See Delikatessen|Mannheim|68306|Germany
+BLONP|Blondesddsl père et fils|Strasbourg|67000|France
+BOLID|Bólido Comidas preparadas|Madrid|28023|Spain
+BONAP|Bon app'|Marseille|13008|France
+BOTTM|Bottom-Dollar Markets|Tsawassen|T2F 8M4|Canada
+BSBEV|B's Beverages|London|EC2 5NT|UK
+CACTU|Cactus Comidas para llevar|Buenos Aires|1010|Argentina
+CENTC|Centro comercial Moctezuma|México D.F.|05022|Mexico
+CHOPS|Chop-suey Chinese|Bern|3012|Switzerland
+COMMI|Comércio Mineiro|Sao Paulo|05432-043|Brazil
+CONSH|Consolidated Holdings|London|WX1 6LT|UK
+DRACD|Drachenblut Delikatessen|Aachen|52066|Germany
+DUMON|Du monde entier|Nantes|44000|France
+EASTC|Eastern Connection|London|WX3 6FW|UK
+ERNSH|Ernst Handel|Graz|8010|Austria
+FAMIA|Familia Arquibaldo|Sao Paulo|05442-030|Brazil
+FISSA|FISSA Fabrica Inter. Salchichas S.A.|Madrid|28034|Spain
+FOLIG|Folies gourmandes|Lille|59000|France
+FOLKO|Folk och fä HB|Bräcke|S-844 67|Sweden
+FRANK|Frankenversand|München|80805|Germany
+FRANR|France restauration|Nantes|44000|France
+FRANS|Franchi S.p.A.|Torino|10100|Italy
+FURIB|Furia Bacalhau e Frutos do Mar|Lisboa|1675|Portugal
+GALED|Galería del gastrónomo|Barcelona|08022|Spain
+GODOS|Godos Cocina Típica|Sevilla|41101|Spain
+GOURL|Gourmet Lanchonetes|Campinas|04876-786|Brazil
+GREAL|Great Lakes Food Market|Eugene|97403|USA
+GROSR|GROSELLA-Restaurante|Caracas|1081|Venezuela
+HANAR|Hanari Carnes|Rio de Janeiro|05454-876|Brazil
+HILAA|HILARION-Abastos|San Cristóbal|5022|Venezuela
+HUNGC|Hungry Coyote Import Store|Elgin|97827|USA
+HUNGO|Hungry Owl All-Night Grocers|Cork||Ireland
+ISLAT|Island Trading|Cowes|PO31 7PJ|UK
+KOENE|Königlich Essen|Brandenburg|14776|Germany
+LACOR|La corne d'abondance|Versailles|78000|France
+LAMAI|La maison d'Asie|Toulouse|31000|France
+LAUGB|Laughing Bacchus Wine Cellars|Vancouver|V3F 2K1|Canada
+LAZYK|Lazy K Kountry Store|Walla Walla|99362|USA
+LEHMS|Lehmanns Marktstand|Frankfurt a.M.|60528|Germany
+LETSS|Let's Stop N Shop|San Francisco|94117|USA
+LILAS|LILA-Supermercado|Barquisimeto|3508|Venezuela
+LINOD|LINO-Delicateses|I. de Margarita|4980|Venezuela
+LONEP|Lonesome Pine Restaurant|Portland|97219|USA
+MAGAA|Magazzini Alimentari Riuniti|Bergamo|24100|Italy
+MAISD|Maison Dewey|Bruxelles|B-1180|Belgium
+MEREP|Mère Paillarde|Montréal|H1J 1C3|Canada
+MORGK|Morgenstern Gesundkost|Leipzig|04179|Germany
+NORTS|North/South|London|SW7 1RZ|UK
+OCEAN|Océano Atlántico Ltda.|Buenos Aires|1010|Argentina
+OLDWO|Old World Delicatessen|Anchorage|99508|USA
+OTTIK|Ottilies Käseladen|Köln|50739|Germany
+PARIS|Paris spécialités|Paris|75012|France
+PERIC|Pericles Comidas clásicas|México D.F.|05033|Mexico
+PICCO|Piccolo und mehr|Salzburg|5020|Austria
+PRINI|Princesa Isabel Vinhos|Lisboa|1756|Portugal
+QUEDE|Que Delícia|Rio de Janeiro|02389-673|Brazil
+QUEEN|Queen Cozinha|Sao Paulo|05487-020|Brazil
+QUICK|QUICK-Stop|Cunewalde|01307|Germany
+RANCH|Rancho grande|Buenos Aires|1010|Argentina
+RATTC|Rattlesnake Canyon Grocery|Albuquerque|87110|USA
+REGGC|Reggiani Caseifici|Reggio Emilia|42100|Italy
+RICAR|Ricardo Adocicados|Rio de Janeiro|02389-890|Brazil
+RICSU|Richter Supermarkt|Genève|1203|Switzerland
+ROMEY|Romero y tomillo|Madrid|28001|Spain
+SANTG|Santé Gourmet|Stavern|4110|Norway
+SAVEA|Save-a-lot Markets|Boise|83720|USA
+SEVES|Seven Seas Imports|London|OX15 4NB|UK
+SIMOB|Simons bistro|Kobenhavn|1734|Denmark
+SPECD|Spécialités du monde|Paris|75016|France
+SPLIR|Split Rail Beer & Ale|Lander|82520|USA
+SUPRD|Suprêmes délices|Charleroi|B-6000|Belgium
+THEBI|The Big Cheese|Portland|97201|USA
+THECR|The Cracker Box|Butte|59801|USA
+TOMSP|Toms Spezialitäten|Münster|44087|Germany
+TORTU|Tortuga Restaurante|México D.F.|05033|Mexico
+TRADH|Tradição Hipermercados|Sao Paulo|05634-030|Brazil
+TRAIH|Trail's Head Gourmet Provisioners|Kirkland|98034|USA
+VAFFE|Vaffeljernet|Århus|8200|Denmark
+VICTE|Victuailles en stock|Lyon|69004|France
+VINET|Vins et alcools Chevalier|Reims|51100|France
+WANDK|Die Wandernde Kuh|Stuttgart|70563|Germany
+WARTH|Wartian Herkku|Oulu|90110|Finland
+WELLI|Wellington Importadora|Resende|08737-363|Brazil
+WHITC|White Clover Markets|Seattle|98128|USA
+WILMK|Wilman Kala|Helsinki|21240|Finland
+WOLZA|Wolski  Zajazd|Warszawa|01-012|Poland
