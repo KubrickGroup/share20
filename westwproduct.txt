@@ -1,0 +1,77 @@
+﻿1001|Chai|Beverages|18.00|39
+1002|Chang|Beverages|19.00|17
+1003|Aniseed Syrup|Condiments|10.00|13
+1004|Chef Anton's Cajun Seasoning|Condiments|22.00|53
+1005|Chef Anton's Gumbo Mix|Condiments|21.35|0
+1006|Grandma's Boysenberry Spread|Condiments|25.00|120
+1007|Uncle Bob's Organic Dried Pears|Produce|30.00|15
+1008|Northwoods Cranberry Sauce|Condiments|40.00|6
+1009|Mishi Kobe Niku|Meat/Poultry|97.00|29
+1010|Ikura|Seafood|31.00|31
+1011|Queso Cabrales|Dairy Products|21.00|22
+1012|Queso Manchego La Pastora|Dairy Products|38.00|86
+1013|Konbu|Seafood|6.00|24
+1014|Tofu|Produce|23.25|35
+1015|Genen Shouyu|Condiments|15.50|39
+1016|Pavlova|Confections|17.45|29
+1017|Alice Mutton|Meat/Poultry|39.00|0
+1018|Carnarvon Tigers|Seafood|62.50|42
+1019|Teatime Chocolate Biscuits|Confections|9.20|25
+1020|Sir Rodney's Marmalade|Confections|81.00|40
+1021|Sir Rodney's Scones|Confections|10.00|3
+1022|Gustaf's Knäckebröd|Grains/Cereals|21.00|104
+1023|Tunnbröd|Grains/Cereals|9.00|61
+1024|Guaraná Fantástica|Beverages|4.50|20
+1025|NuNuCa Nuß-Nougat-Creme|Confections|14.00|76
+1026|Gumbär Gummibärchen|Confections|31.23|15
+1027|Schoggi Schokolade|Confections|43.90|49
+1028|Rössle Sauerkraut|Produce|45.60|26
+1029|Thüringer Rostbratwurst|Meat/Poultry|123.79|0
+1030|Nord-Ost Matjeshering|Seafood|25.89|10
+1031|Gorgonzola Telino|Dairy Products|12.50|0
+1032|Mascarpone Fabioli|Dairy Products|32.00|9
+1033|Geitost|Dairy Products|2.50|112
+1034|Sasquatch Ale|Beverages|14.00|111
+1035|Steeleye Stout|Beverages|18.00|20
+1036|Inlagd Sill|Seafood|19.00|112
+1037|Gravad lax|Seafood|26.00|11
+1038|Côte de Blaye|Beverages|263.50|17
+1039|Chartreuse verte|Beverages|18.00|69
+1040|Boston Crab Meat|Seafood|18.40|123
+1041|Jack's New England Clam Chowder|Seafood|9.65|85
+1042|Singaporean Hokkien Fried Mee|Grains/Cereals|14.00|26
+1043|Ipoh Coffee|Beverages|46.00|17
+1044|Gula Malacca|Condiments|19.45|27
+1045|Rogede sild|Seafood|9.50|5
+1046|Spegesild|Seafood|12.00|95
+1047|Zaanse koeken|Confections|9.50|36
+1048|Chocolade|Confections|12.75|15
+1049|Maxilaku|Confections|20.00|10
+1050|Valkoinen suklaa|Confections|16.25|65
+1051|Manjimup Dried Apples|Produce|53.00|20
+1052|Filo Mix|Grains/Cereals|7.00|38
+1053|Perth Pasties|Meat/Poultry|32.80|0
+1054|Tourtière|Meat/Poultry|7.45|21
+1055|Pâté chinois|Meat/Poultry|24.00|115
+1056|Gnocchi di nonna Alice|Grains/Cereals|38.00|21
+1057|Ravioli Angelo|Grains/Cereals|19.50|36
+1058|Escargots de Bourgogne|Seafood|13.25|62
+1059|Raclette Courdavault|Dairy Products|55.00|79
+1060|Camembert Pierrot|Dairy Products|34.00|19
+1061|Sirop d'érable|Condiments|28.50|113
+1062|Tarte au sucre|Confections|49.30|17
+1063|Vegie-spread|Condiments|43.90|24
+1064|Wimmers gute Semmelknödel|Grains/Cereals|33.25|22
+1065|Louisiana Fiery Hot Pepper Sauce|Condiments|21.05|76
+1066|Louisiana Hot Spiced Okra|Condiments|17.00|4
+1067|Laughing Lumberjack Lager|Beverages|14.00|52
+1068|Scottish Longbreads|Confections|12.50|6
+1069|Gudbrandsdalsost|Dairy Products|36.00|26
+1070|Outback Lager|Beverages|15.00|15
+1071|Flotemysost|Dairy Products|21.50|26
+1072|Mozzarella di Giovanni|Dairy Products|34.80|14
+1073|Röd Kaviar|Seafood|15.00|101
+1074|Longlife Tofu|Produce|10.00|4
+1075|Rhönbräu Klosterbier|Beverages|7.75|125
+1076|Lakkalikööri|Beverages|18.00|57
+1077|Original Frankfurter grüne Soße|Condiments|13.00|32
