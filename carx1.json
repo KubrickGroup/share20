@@ -16,7 +16,7 @@
 {"brand":"Lister","models":["Thunder"]}
 {"brand":"Mercedes-Benz","models":["X-class","GLA","SLC","SL","AMG GT","CLA","GLS","V-class","SLS AMG","GLC","GLE","SLK"]}
 {"brand":"Bee Bee","models":["XS"]}
-{"brand":"Lexus","models":["CT","LC","LFA","NX","RC"]}
+{"brand":"Lexus","models":["CT","LX","ES","SC","LC","LFA","NX","RC"]}
 {"brand":"Mitsubishi","models":["Eclipse Cross","ASX"]}
 {"brand":"Volvo","models":["V60","XC40"]}
 {"brand":"Maserati","models":["Levante","GranCabrio"]}
@@ -26,9 +26,10 @@
 {"brand":"VAZ","models":["Granta","Priora","Vesta","Largus","XRAY","Kalina"]}
 {"brand":"SCG","models":["003"]}
 {"brand":"Baojun","models":["E100"]}
+{"brand":"Hummer","models":["H1","H2","H3"]}
 {"brand":"Lamborghini","models":["Centenario","Aventador","Urus","Huracan"]}
 {"brand":"Cadillac","models":["ATS","XTS","ELR","XT5","CT6"]}
-{"brand":"Renault","models":["Zoe","Lodgy","Pulse","Captur","Scala","Duster","Latitude","Talisman","Kadjar","Alaskan","KWID","Fluence"]}
+{"brand":"Renault","models":["Zoe","Megane","Lodgy","Pulse","Captur","Scala","Duster","Latitude","Talisman","Kadjar","Alaskan","KWID","Fluence"]}
 {"brand":"Noble","models":["M600"]}
 {"brand":"Borgward","models":["BX5","BX6","BX7"]}
 {"brand":"Bristol","models":["Bullet"]}
