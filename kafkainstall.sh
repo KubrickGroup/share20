@@ -30,7 +30,8 @@ tar -zxf kafka_2.12-2.8.0.tgz
 sudo mv kafka_2.12-2.8.0 /usr/local/kafka
 sudo mkdir /tmp/kafka-logs
 
-printf "advertised.listeners=PLAINTEXT://" > listeners
+echo "" > listeners
+printf "advertised.listeners=PLAINTEXT://" >> listeners
 curl ifconfig.me >> listeners
 printf ":9092\n" >> listeners
 
