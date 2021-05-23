@@ -28,7 +28,7 @@ wget https://archive.apache.org/dist/kafka/2.8.0/kafka_2.12-2.8.0.tgz
 
 tar -zxf kafka_2.12-2.8.0.tgz
 sudo mv kafka_2.12-2.8.0 /usr/local/kafka
-sudo mkdir /tmp/kafka-logs
+mkdir /tmp/kafka-logs
 
 echo "" > listeners
 printf "advertised.listeners=PLAINTEXT://" >> listeners
