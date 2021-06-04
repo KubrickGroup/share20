@@ -15,9 +15,8 @@ tar -zxf zookeeper-3.4.6.tar.gz
 sudo mv zookeeper-3.4.6 /usr/local/zookeeper
 sudo mkdir -p /var/lib/zookeeper
 
-sudo echo tickTime=2000 > /usr/local/zookeeper/conf/zoo.cfg
-sudo echo dataDir=/var/lib/zookeeper >> /usr/local/zookeeper/conf/zoo.cfg
-sudo echo clientPort=2181 >> /usr/local/zookeeper/conf/zoo.cfg
+wget -O zoo.cfg https://gitlab.com/opstar/share20/-/raw/master/zoo.cfg
+sudo mv zoo.cfg /usr/local/zookeeper/conf/zoo.cfg
 sudo /usr/local/zookeeper/bin/zkServer.sh start
 sudo yum -y install telnet
 
