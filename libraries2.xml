@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <libraries>
 	<library name="City of London Library">
+		<location>City of London</location>
 		<catalog catref="CLL1">
 		   <book id="bk101">
 			  <authors><author>Gambardella, Matthew</author></authors>
@@ -70,6 +71,7 @@
 		</catalog>
 	</library>
 	<library name="Westminster Library">
+		<location>Westminster</location>
 		<catalog catref="WL1">
 		   <book id="bk109">
 			  <authors><author>Kress, Peter</author></authors>
