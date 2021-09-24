@@ -9,8 +9,7 @@
 			  <genre>Computer</genre>
 			  <price>44.95</price>
 			  <publish_date>2000-10-01</publish_date>
-			  <description>
-			  </description>
+			  <description></description>
 		   </book>
 		   <book id="bk102">
 			  <authors><author>Abiteboul, Serge</author><author>Hull, Richard</author><author>Vianu, Victor</author></authors>
