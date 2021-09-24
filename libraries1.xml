@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <libraries>
 	<library name="City of London Library">
-		<catalog>
+		<catalog catref="CLL1">
 		   <book id="bk101">
 			  <authors><author>Gambardella, Matthew</author></authors>
 			  <title>XML Developer's Guide</title>
@@ -70,7 +70,7 @@
 		</catalog>
 	</library>
 	<library name="Westminster Library">
-		<catalog>
+		<catalog catref="WL1">
 		   <book id="bk109">
 			  <authors><author>Kress, Peter</author></authors>
 			  <title>Paradox Lost</title>
