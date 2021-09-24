@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Imperial College",
+		"ukprn": 10003270,
+		"www": "www.imperial.ac.uk",
+		"course": [{"title": "Medicine", "ucasprogid": "A15-D35"},{"title": "Biochemistry", "ucasprogid": "A15-C40"},{"title": "Physics", "ucasprogid": "A15-D39"}]
+	},
+	{
+		"name": "University of Warwick",
+		"www": "warwick.ac.uk",
+		"ukprn": 10007163,
+		"course": [{"title": "Computer Science", "ucasprogid": "A20-B59"},{"title": "Economics", "ucasprogid": "A20-B68"}]
+	},
+	{
+		"name": "University of St Andrews",
+		"ukprn": 10007803,
+		"www": "www.st-andrews.ac.uk/",
+		"course": [{"title": "Economics", "ucasprogid": "A28-J64"},{"title": "English", "ucasprogid": "A29-A02"}]
+	}
+]
