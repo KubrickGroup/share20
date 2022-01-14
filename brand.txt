@@ -1,0 +1,287 @@
+brand_name|supplier
+Element|Element
+ellesse|ellesse
+Emma Cook|Emma Cook
+Emma Jane|Emma Jane
+Emporio Armani|Emporio Armani
+Emporio Armani Bodywear|Emporio Armani
+Fashion Forms|Fashion Forms
+Gebe Maternity|Gebe Maternity
+Gestuz|Gestuz
+Gianni Feraud|Gianni Feraud
+Ginger Fizz|Ginger Fizz
+Gipsy|Gipsy
+Glamorous|Glamorous
+Glamorous Petite|Glamorous Petite
+Goddiva|Goddiva
+Goldie|Goldie
+Goosecraft|Goosecraft
+Gossard|Gossard
+G-Star|G-Star
+Harry Brown|Harry Brown
+Havaianas|Havaianas
+Hazel|Hazel
+Heart & Dagger|Heart & Dagger
+Helene Berman|Helene Berman
+Hell Bunny|Hell Bunny
+Herschel Supply Co|Herschel Supply Co
+Hobie|Hobie
+Hollister|Hollister
+Honey Punch|Honey Punch
+Hope & Ivy Maternity|Hope & Ivy Maternity
+Horrockses|Horrockses
+House of Holland|House of Holland
+Hoxton Denim|Hoxton Denim
+Hoxton Haus|Hoxton Haus
+HUGO|HUGO
+Hunkemoller|Hunkemoller
+Hunter|Hunter
+Ichi|Ichi
+Icon Brand|Icon Brand
+Illamasqua|Illamasqua
+Indeed Laboratories|Indeed Laboratories
+Influence|Influence
+Influence Tall|Influence Tall
+Invisibobble|Invisibobble
+Island Stories|Island Stories
+Ivory Rose Lingerie|Ivory Rose Lingerie
+Ivyrevel|Ivyrevel
+J.O.A|J.O.A
+Jack & Jones|Jack & Jones
+Jack Wills|Jack Wills
+Jaded London|Jaded London
+Jarlo|Jarlo
+Jarlo Petite|Jarlo
+Jarlo Tall|Jarlo
+JDY|JDY
+Jessica Wright|Jessica Wright
+John Zack Petite|John Zack 
+John Zack Plus|John Zack 
+John Zack Tall|John Zack 
+Jonathan Aston|Jonathan Aston
+Jovonna|Jovonna
+Junarose|Junarose
+Just Female|Just Female
+Just Junkies|Just Junkies
+Kaltur|Kaltur
+Karl Kani|Karl Kani
+Keepsake|Keepsake
+Kendall + Kylie|Kendall + Kylie
+Kickers|Kickers
+KIKIRIO|KIKIRIO
+Kikki K|Kikki K
+Kings Of Indigo|Kings Of Indigo
+Kingsley Ryan|Kingsley Ryan
+Kiss & Tell|Kiss & Tell
+Kiss The Sky|Kiss The Sky
+Kiss The Sky Tall|Kiss The Sky Tall
+Koco & K|Koco & K
+Koi Footwear|Koi Footwear
+Koko|Koko
+K-Swiss|K-Swiss
+Kulani Kinis|Kulani Kinis
+Kurt Geiger London|Kurt Geiger London
+Lavand|Lavand
+Lavish Alice|Lavish Alice
+Le Breve|Le Breve
+Lee|Lee
+Lepel|Lepel
+Levi's|Levi's
+Limit|Limit
+Lipsy|Lipsy
+Liquor N Poker|Liquor N Poker
+Liquorish|Liquorish
+Little Mistress|Little Mistress
+Little Mistress Petite|Little Mistress
+Little Mistress Tall|Little Mistress
+London Rebel|London Rebel
+Lost Ink|Lost Ink
+Lottie|Lottie
+Louche|Louche
+Love & Other Things|Love & Other Things
+Love Moschino|Love Moschino
+Love Triangle|Love Triangle
+Lovedrobe|Lovedrobe
+Lovedrobe Luxe Plus|Lovedrobe Luxe Plus
+Loyalty & Faith|Loyalty & Faith
+Lyle & Scott|Lyle & Scott
+Mad But Magic|Mad But Magic
+Magic|Magic
+Maison Scotch|Maison Scotch
+Mama.licious|Mama.licious
+MasqueBAR|MasqueBAR
+Maya Tall|Maya Tall
+Michael Kors|Michael Kors
+Milk It|Milk It
+Minkpink|Minkpink
+Misha|Misha
+Miss KG|Miss KG
+Miss Selfridge|Miss Selfridge
+Miss Selfridge Petite|Miss Selfridge
+Missguided|Missguided
+Missguided Petite|Missguided
+Missguided Tall|Missguided
+Monki|Monki
+MOSS BROS|MOSS BROS
+Motel|Motel
+NaaNaa|NaaNaa
+NaaNaa Petite|NaaNaa
+NaaNaa Tall|NaaNaa
+Neon Rose|Neon Rose
+New Look|New Look
+New Look Petite|New Look
+Nicce|Nicce
+Noak|Noak
+Noisy May|Noisy May
+Noisy May Tall|Noisy May
+NW3|NW3
+NYTT|NYTT
+Oasis|Oasis
+Office|Office
+Oh K!|Oh K!
+Oh My Love|Oh My Love
+One Above Another|One Above Another
+One Teaspoon|One Teaspoon
+O'Neill|O'Neill
+Only|Only
+Only & Sons|Only
+Only Petite|Only
+Only Play|Only
+Only Tall|Only
+Original Penguin|Original Penguin
+Outrageous Fortune|Outrageous Fortune
+Outrageous Fortune Petite|Outrageous Fortune
+Outrageous Fortune Plus|Outrageous Fortune
+Outrageous Fortune Tall|Outrageous Fortune
+Paper Dolls|Paper Dolls
+Paper Dolls Petite|Paper Dolls
+Paper Dolls Plus|Paper Dolls
+Paper Dolls Tall|Paper Dolls
+Parallel Lines|Parallel Lines
+Parisian|Parisian
+Park Lane|Park Lane
+Parka London|Parka London
+Peek & Beau|Peek & Beau
+Peoples Market|Peoples Market
+Pepe Jeans|Pepe Jeans
+Pieces|Pieces
+Pistol Panties|Pistol Panties
+Playful Promises|Playful Promises
+Polo Ralph Lauren|Polo Ralph Lauren
+Pour Moi|Pour Moi
+Protest|Protest
+Public Desire|Public Desire
+Pull&Bear|Pull&Bear
+Puma|Puma
+QED London|QED London
+Quay Australia|Quay Australia
+Queen Bee|Queen Bee
+Quiksilver|Quiksilver
+QUPID|QUPID
+Radio Fiji ATS|Radio Fiji ATS
+Raga|Raga
+Raid|Raid
+Raisins|Raisins
+Ray-Ban|Ray-Ban
+RD & Koko|RD & Koko
+Real|Real
+Reclaimed Vintage|Reclaimed Vintage
+Reebok|Reebok
+Reiss|Reiss
+Religion|Religion
+Replay|Replay
+Résumé|Résumé
+Ripcurl|Ripcurl
+River Island|River Island
+River Island Petite|River Island
+River Island Plus|River Island
+Rock & Religion|Rock & Religion
+Rokoko|Rokoko
+Rollas|Rollas
+RUDIE|RUDIE
+RVCA|RVCA
+Sabina Musayev|Sabina Musayev
+Santa Cruz|Santa Cruz
+Seafolly|Seafolly
+See U Soon|See U Soon
+Selected|Selected
+Selected Homme|Selected
+Shrine|Shrine
+Sigma|Sigma
+Silver Bloom|Silver Bloom
+Silver Street|Silver Street
+Simply Be|Simply Be
+Sisley|Sisley
+Soaked in Luxury|Soaked in Luxury
+Sol Sana|Sol Sana
+Solid|Solid
+Soludos|Soludos
+Somedays|Somedays
+Somedays Lovin|Somedays
+South Beach|South Beach
+St Sana|St Sana
+Stevie May|Stevie May
+Stradivarius|Stradivarius
+Stylestalker|Stylestalker
+Superdry|Superdry
+Surfanic|Surfanic
+Tangle Teezer|Tangle Teezer
+Ted Baker|Ted Baker
+TFNC|TFNC
+TFNC Petite|TFNC
+The English Factory|The English Factory
+The Jetset Diaries|The Jetset Diaries
+The Ordinary|The Ordinary
+Tommy Hilfiger|Tommy Hilfiger
+Tommy Jeans|Tommy Hilfiger
+Traffic People|Traffic People
+Troy|Troy
+True Decadence|True Decadence
+Truffle Collection|Truffle Collection
+Twiin|Twiin
+Typical Freaks|Typical Freaks
+UGG|UGG
+Umbro|Umbro
+Uncivilised|Uncivilised
+UNIQUE21|UNIQUE21
+UNIQUE21 Hero|UNIQUE21
+UNIQUE21 Maternity|UNIQUE21
+Unreal Fur|Unreal Fur
+Uppercut Deluxe|Uppercut Deluxe
+Urban Bliss|Urban Bliss
+Urban Bliss Maternity|Urban Bliss
+Urban Bliss Plus|Urban Bliss
+Urbancode|Urbancode
+Uttam Boutique|Uttam Boutique
+Uttam Boutique Petite|Uttam Boutique
+Uttam Boutique Plus|Uttam Boutique
+Vanessa Bruno Athé|Vanessa Bruno Athé
+Vans|Vans
+Vero Moda|Vero Moda
+Vero Moda Curve|Vero Moda
+Vero Moda Petite|Vero Moda
+Vero Moda Tall|Vero Moda
+Verona|Verona
+Vesper|Vesper
+Vesper Tall|Vesper
+Vila|Vila
+Volcom|Volcom
+Walter Baker|Walter Baker
+Warehouse|Warehouse
+Waven|Waven
+Weekday|Weekday
+Whistles|Whistles
+White Cove Petite|White Cove Petite
+Wolf & Whistle|Wolf & Whistle
+Wolf & Whistle Curve|Wolf & Whistle
+Wonderbra|Wonderbra
+WYLDR|WYLDR
+Y.A.S|Y.A.S
+Y.A.S Tall|Y.A.S
+YES TO|YES TO
+Z_Code_Z|Z_Code_Z
+Zacro|Zacro
+Zaxy|Zaxy
+Zibi London|Zibi London
+Zulu & Zephyr|Zulu & Zephyr
+ZYA|ZYA
