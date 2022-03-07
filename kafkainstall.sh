@@ -9,6 +9,8 @@ echo Installing Zookeeper
 mkdir kafkainst
 cd kafkainst
 
+echo franzlab1.northeurope.cloudapp.azure.com > ifconfig.me 
+
 wget https://archive.apache.org/dist/zookeeper/zookeeper-3.4.6/zookeeper-3.4.6.tar.gz
 
 tar -zxf zookeeper-3.4.6.tar.gz
