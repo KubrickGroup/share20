@@ -1,0 +1,501 @@
+policynum	expiry	location	state	region	insuredvalue	construction	businesstype	earthquake	flood
+100242	2000-01-02	Urban	NY	East	1617630.00	Frame	Retail	N	N
+100314	2000-01-02	Urban	NY	East	8678500.00	Fire Resist	Apartment	Y	Y
+100359	2000-01-02	Rural	WI	Midwest	2052660.00	Frame	Farming	N	N
+100315	2000-01-03	Urban	NY	East	17580000.00	Frame	Apartment	Y	Y
+100385	2000-01-03	Urban	NY	East	1925000.00	Masonry	Hospitality	N	N
+100388	2000-01-04	Urban	IL	Midwest	12934500.00	Frame	Apartment	Y	Y
+100358	2000-01-05	Urban	WI	Midwest	928300.00	Masonry	Office Bldg	N	N
+100264	2000-01-07	Rural	NY	East	2219900.00	Frame	Farming	N	N
+100265	2000-01-07	Urban	NY	East	14100000.00	Frame	Apartment	Y	Y
+100357	2000-01-08	Urban	NY	East	4762808.00	Masonry	Other	Y	Y
+100399	2000-01-08	Urban	NY	East	13925190.00	Frame	Apartment	Y	Y
+100329	2000-01-09	Urban	NY	East	6350000.00	Frame	Apartment	Y	Y
+100429	2000-01-09	Urban	WI	Midwest	4036000.00	Masonry	Medical	Y	Y
+100441	2000-01-10	Urban	NJ	East	472800.00	Masonry	Retail	Y	Y
+100442	2000-01-10	Urban	WI	Midwest	11710880.00	Masonry	Apartment	Y	Y
+100372	2000-01-12	Urban	NY	East	1370300.00	Frame	Apartment	Y	Y
+100281	2000-01-13	Rural	WI	Midwest	1432835.00	Frame	Farming	N	N
+100280	2000-01-15	Urban	NY	East	82000.00	Masonry	Organization	Y	Y
+100424	2000-01-16	Urban	NY	East	192000.00	Masonry	Retail	N	N
+100425	2000-01-16	Urban	NY	East	4950000.00	Frame	Office Bldg	Y	Y
+100426	2000-01-16	Urban	VT	Northeast	2432875.00	Fire Resist	Apartment	N	N
+100252	2000-01-17	Urban	OH	Central	1529600.00	Masonry	Apartment	N	N
+100279	2000-01-18	Urban	NY	East	7677000.00	Frame	Apartment	Y	Y
+100292	2000-01-18	Urban	NY	East	13750000.00	Frame	Apartment	Y	Y
+100398	2000-01-18	Rural	NY	East	2529400.00	Frame	Farming	N	N
+100382	2000-01-19	Urban	NJ	East	2328650.00	Frame	Organization	N	N
+100461	2000-01-20	Urban	WI	Midwest	4380200.00	Masonry	Office Bldg	Y	Y
+100263	2000-01-22	Urban	NJ	East	2815000.00	Metal Clad	Apartment	Y	Y
+100453	2000-01-22	Urban	NY	East	1177700.00	Frame	Hospitality	N	N
+100381	2000-01-23	Urban	VT	Northeast	7203500.00	Frame	Office Bldg	Y	Y
+100275	2000-01-25	Urban	WI	Midwest	53410614.00	Frame	Construction	Y	Y
+100277	2000-01-25	Urban	NJ	East	3189300.00	Masonry	Service	Y	Y
+100312	2000-01-25	Rural	IL	Midwest	3145700.00	Frame	Education	N	N
+100327	2000-01-25	Urban	WI	Midwest	1451100.00	Frame	Recreation	N	N
+100326	2000-01-26	Urban	OH	Central	1787900.00	Frame	Office Bldg	N	N
+100379	2000-01-26	Urban	NY	East	18777355.00	Frame	Apartment	Y	Y
+100310	2000-01-28	Urban	WI	Midwest	8800000.00	Fire Resist	Office Bldg	Y	Y
+100341	2000-01-28	Urban	NY	East	1123000.00	Frame	Office Bldg	Y	Y
+100289	2000-01-29	Rural	NY	East	2145420.00	Frame	Farming	N	N
+100290	2000-01-29	Urban	NY	East	18933000.00	Frame	Office Bldg	Y	Y
+100291	2000-01-29	Urban	NY	East	21400000.00	Fire Resist	Apartment	Y	Y
+100340	2000-01-30	Urban	NY	East	3754000.00	Frame	Office Bldg	Y	Y
+100415	2000-01-31	Urban	NY	East	9650000.00	Frame	Office Bldg	Y	Y
+100421	2000-01-31	Urban	NY	East	9503000.00	Frame	Office Bldg	Y	Y
+100304	2000-02-01	Urban	NJ	East	1688300.00	Frame	Hospitality	N	Y
+100414	2000-02-02	Urban	WI	Midwest	17856705.00	Masonry	Apartment	Y	Y
+100420	2000-02-02	Urban	NY	East	7577000.00	Frame	Apartment	Y	Y
+100481	2000-02-02	Urban	WI	Midwest	1990915.00	Masonry	Office Bldg	N	N
+100352	2000-02-03	Urban	NJ	East	1245000.00	Frame	Hospitality	Y	Y
+100496	2000-02-04	Urban	IL	Midwest	1895000.00	Masonry	Office Bldg	N	N
+100309	2000-02-05	Urban	WI	Midwest	5000368.00	Masonry	Manufacturing	N	N
+100413	2000-02-05	Urban	NY	East	8397700.00	Frame	Apartment	Y	Y
+100498	2000-02-06	Urban	NJ	East	36356000.00	Fire Resist	Apartment	Y	Y
+100499	2000-02-07	Urban	NJ	East	16932600.00	Fire Resist	Apartment	Y	Y
+100509	2000-02-07	Urban	OH	Central	1849000.00	Metal Clad	Retail	N	N
+100371	2000-02-08	Urban	OH	Central	218490.00	Frame	Apartment	N	N
+100412	2000-02-08	Urban	NJ	East	3052600.00	Frame	Apartment	Y	N
+100370	2000-02-09	Urban	WI	Midwest	8126500.00	Masonry	Organization	Y	Y
+100377	2000-02-09	Urban	NY	East	11400000.00	Masonry	Apartment	Y	Y
+100452	2000-02-09	Urban	NJ	East	5918400.00	Frame	Farming	Y	N
+100459	2000-02-09	Rural	NY	East	2550750.00	Frame	Farming	N	N
+100325	2000-02-13	Urban	NY	East	140000.00	Masonry	Retail	N	N
+100419	2000-02-13	Urban	NY	East	725000.00	Masonry	Service	N	N
+100512	2000-02-13	Urban	NY	East	10098900.00	Frame	Office Bldg	Y	Y
+100513	2000-02-13	Rural	NY	East	2937200.00	Frame	Farming	N	N
+100514	2000-02-13	Urban	NJ	East	3644800.00	Frame	Apartment	Y	Y
+100471	2000-02-15	Urban	NY	East	13882500.00	Frame	Apartment	Y	Y
+100396	2000-02-16	Rural	NY	East	2050000.00	Frame	Farming	N	N
+100436	2000-02-17	Rural	NY	East	3805200.00	Metal Clad	Farming	N	N
+100492	2000-02-18	Rural	NY	East	1417800.00	Frame	Organization	N	N
+100494	2000-02-18	Rural	WI	Midwest	5613900.00	Masonry	Farming	N	N
+100493	2000-02-19	Urban	NJ	East	2471100.00	Frame	Farming	N	N
+100351	2000-02-20	Rural	VT	Northeast	2985950.00	Frame	Farming	N	N
+100411	2000-02-20	Urban	WI	Midwest	9062700.00	Fire Resist	Hospitality	N	N
+100469	2000-02-21	Urban	NY	East	7350000.00	Frame	Apartment	Y	Y
+100418	2000-02-22	Urban	NJ	East	1300900.00	Masonry	Office Bldg	N	N
+100511	2000-02-22	Urban	NY	East	12750000.00	Frame	Apartment	Y	Y
+100536	2000-02-22	Urban	NY	East	7585000.00	Fire Resist	Office Bldg	Y	Y
+100537	2000-02-22	Urban	NY	East	9493313.00	Masonry	Apartment	Y	Y
+100394	2000-02-23	Urban	NY	East	10302000.00	Fire Resist	Office Bldg	Y	Y
+100367	2000-02-24	Urban	NH	Northeast	2500000.00	Metal Clad	Manufacturing	N	N
+100408	2000-02-24	Urban	WI	Midwest	4833900.00	Masonry	Office Bldg	N	N
+100410	2000-02-24	Urban	NY	East	2029500.00	Metal Clad	Apartment	Y	Y
+100369	2000-02-25	Rural	NY	East	2233200.00	Frame	Farming	N	N
+100409	2000-02-25	Urban	NY	East	2001250.00	Frame	Office Bldg	Y	Y
+100546	2000-02-27	Rural	NY	East	1498850.00	Metal Clad	Farming	N	N
+100434	2000-03-01	Urban	NJ	East	405556.00	Frame	Apartment	Y	N
+100523	2000-03-01	Urban	NY	East	1311220.00	Frame	Apartment	N	N
+100433	2000-03-02	Urban	NY	East	1769785.00	Frame	Hospitality	Y	Y
+100566	2000-03-02	Urban	OH	Central	5377000.00	Frame	Apartment	Y	Y
+100522	2000-03-05	Rural	NY	East	1599860.00	Frame	Farming	N	N
+100457	2000-03-06	Urban	NY	East	10780450.00	Frame	Apartment	Y	Y
+100521	2000-03-06	Urban	NJ	East	3839200.00	Masonry	Apartment	N	N
+100532	2000-03-07	Urban	NJ	East	296000.00	Frame	Apartment	N	N
+100533	2000-03-07	Rural	WI	Midwest	2707630.00	Frame	Farming	N	N
+100467	2000-03-08	Urban	NJ	East	2249500.00	Frame	Farming	N	N
+100583	2000-03-08	Urban	NY	East	7611000.00	Masonry	Office Bldg	Y	Y
+100404	2000-03-09	Rural	WI	Midwest	1152600.00	Frame	Farming	N	N
+100554	2000-03-09	Urban	NJ	East	9115500.00	Frame	Apartment	Y	Y
+100446	2000-03-11	Urban	NY	East	1600000.00	Masonry	Hospitality	Y	Y
+100465	2000-03-12	Urban	NJ	East	2575965.00	Frame	Farming	Y	N
+100490	2000-03-12	Urban	NY	East	220000.00	Metal Clad	Hospitality	N	N
+100456	2000-03-14	Urban	NY	East	1800000.00	Frame	Apartment	Y	Y
+100489	2000-03-14	Urban	NJ	East	16998000.00	Frame	Office Bldg	Y	Y
+100545	2000-03-14	Urban	NY	East	14450000.00	Frame	Office Bldg	Y	Y
+100543	2000-03-15	Urban	NY	East	2835800.00	Metal Clad	Manufacturing	N	N
+100564	2000-03-15	Urban	WI	Midwest	2280000.00	Frame	Hospitality	Y	Y
+100430	2000-03-17	Urban	NJ	East	3960000.00	Frame	Office Bldg	Y	Y
+100477	2000-03-17	Urban	VT	Northeast	5272975.00	Frame	Apartment	Y	Y
+100478	2000-03-17	Urban	VT	Northeast	6354220.00	Frame	Apartment	Y	Y
+100444	2000-03-21	Urban	NY	East	8892200.00	Masonry	Apartment	Y	Y
+100582	2000-03-22	Urban	NJ	East	4651680.00	Frame	Apartment	Y	Y
+100487	2000-03-23	Urban	NY	East	5990067.00	Frame	Apartment	N	N
+100519	2000-03-25	Rural	NY	East	4102500.00	Frame	Farming	N	N
+100462	2000-03-26	Urban	NY	East	3400000.00	Frame	Construction	Y	Y
+100486	2000-03-26	Urban	NY	East	9973900.00	Frame	Apartment	Y	Y
+100463	2000-03-27	Urban	NY	East	15480000.00	Frame	Office Bldg	Y	Y
+100595	2000-03-27	Rural	NY	East	2446600.00	Frame	Farming	N	N
+100617	2000-03-27	Urban	VT	Northeast	8861500.00	Frame	Office Bldg	N	N
+100580	2000-03-30	Urban	NH	Northeast	97920.00	Frame	Office Bldg	Y	Y
+100581	2000-03-30	Urban	NY	East	5150000.00	Frame	Apartment	Y	Y
+100475	2000-03-31	Rural	WI	Midwest	1451662.00	Masonry	Farming	N	N
+100503	2000-03-31	Urban	NJ	East	1761960.00	Masonry	Office Bldg	N	N
+100504	2000-03-31	Rural	NY	East	1649105.00	Frame	Farming	N	N
+100616	2000-03-31	Urban	NY	East	2329500.00	Frame	Apartment	N	N
+100614	2000-04-03	Urban	NY	East	721500.00	Frame	Apartment	Y	Y
+100529	2000-04-05	Urban	NJ	East	2455000.00	Frame	Apartment	Y	Y
+100551	2000-04-06	Urban	NJ	East	3363463.00	Frame	Farming	Y	N
+100501	2000-04-07	Rural	WI	Midwest	1568100.00	Frame	Farming	N	N
+100516	2000-04-07	Urban	WI	Midwest	2063960.00	Masonry	Organization	N	N
+100542	2000-04-07	Urban	VT	Northeast	1806500.00	Frame	Apartment	N	Y
+100625	2000-04-07	Urban	NY	East	49837500.00	Fire Resist	Apartment	Y	Y
+100540	2000-04-09	Rural	NY	East	2244800.00	Frame	Farming	N	N
+100663	2000-04-10	Urban	NJ	East	10346950.00	Frame	Office Bldg	N	Y
+100539	2000-04-11	Urban	NJ	East	8150000.00	Frame	Apartment	N	Y
+100642	2000-04-11	Urban	NY	East	1697200.00	Frame	Other	N	N
+100549	2000-04-15	Urban	VT	Northeast	3334353.00	Metal Clad	Farming	Y	Y
+100680	2000-04-15	Rural	WI	Midwest	6020060.00	Masonry	Farming	N	N
+100560	2000-04-16	Urban	NY	East	1381370.00	Frame	Organization	N	N
+100629	2000-04-16	Urban	NY	East	2442400.00	Frame	Retail	N	N
+100631	2000-04-16	Urban	NJ	East	4193603.00	Frame	Farming	Y	N
+100572	2000-04-17	Rural	WI	Midwest	3725520.00	Masonry	Farming	N	N
+100630	2000-04-17	Urban	NY	East	7394300.00	Frame	Apartment	Y	Y
+100637	2000-04-17	Urban	NY	East	2402500.00	Frame	Apartment	Y	Y
+100659	2000-04-17	Urban	NJ	East	1693000.00	Frame	Farming	Y	N
+100527	2000-04-18	Urban	NJ	East	9148076.00	Frame	Manufacturing	Y	Y
+100638	2000-04-18	Urban	NJ	East	3950000.00	Frame	Apartment	Y	Y
+100679	2000-04-18	Urban	NJ	East	14183900.00	Frame	Apartment	Y	Y
+100678	2000-04-21	Urban	WI	Midwest	35245000.00	Masonry	Apartment	Y	Y
+100570	2000-04-22	Urban	WI	Midwest	294700.00	Masonry	Office Bldg	N	N
+100578	2000-04-25	Urban	OH	Central	4488000.00	Frame	Apartment	N	N
+100611	2000-04-25	Urban	NJ	East	1595500.00	Frame	Office Bldg	Y	Y
+100621	2000-04-25	Urban	MI	Central	394220.00	Frame	Retail	N	N
+100622	2000-04-25	Urban	WI	Midwest	723900.00	Fire Resist	Office Bldg	Y	Y
+100623	2000-04-25	Rural	NY	East	2006700.00	Frame	Farming	N	N
+100604	2000-04-26	Urban	WI	Midwest	979572.00	Frame	Retail	N	N
+100610	2000-04-27	Urban	NY	East	5086300.00	Frame	Office Bldg	Y	Y
+100591	2000-04-29	Rural	NY	East	4353100.00	Frame	Farming	N	N
+100557	2000-04-30	Urban	NY	East	2056700.00	Frame	Other	Y	Y
+100636	2000-04-30	Urban	IL	Midwest	4886675.00	Masonry	Apartment	N	N
+100628	2000-05-01	Rural	NY	East	1973200.00	Frame	Farming	N	N
+100650	2000-05-02	Urban	NY	East	4156000.00	Masonry	Hospitality	Y	Y
+100651	2000-05-02	Urban	NJ	East	1045000.00	Frame	Apartment	Y	N
+100569	2000-05-03	Urban	NY	East	800000.00	Frame	Construction	N	N
+100609	2000-05-03	Urban	NJ	East	4483000.00	Frame	Office Bldg	Y	Y
+100649	2000-05-04	Rural	NY	East	3074775.00	Frame	Farming	N	N
+100656	2000-05-06	Urban	MN	Midwest	1834200.00	Frame	Hospitality	Y	Y
+100677	2000-05-06	Urban	NY	East	13370000.00	Frame	Apartment	Y	Y
+100704	2000-05-06	Urban	NJ	East	14474600.00	Fire Resist	Apartment	Y	Y
+100713	2000-05-06	Rural	WI	Midwest	2103390.00	Masonry	Farming	N	N
+100584	2000-05-07	Urban	WI	Midwest	7750100.00	Masonry	Other	N	N
+100674	2000-05-07	Urban	NY	East	9250000.00	Frame	Office Bldg	Y	Y
+100589	2000-05-08	Rural	WI	Midwest	2867650.00	Frame	Farming	N	N
+100590	2000-05-08	Rural	WI	Midwest	2798650.00	Masonry	Farming	N	N
+100675	2000-05-08	Urban	NY	East	2468300.00	Frame	Apartment	Y	Y
+100648	2000-05-09	Urban	NY	East	270000.00	Masonry	Retail	N	N
+100683	2000-05-09	Urban	NJ	East	1374100.00	Masonry	Office Bldg	Y	Y
+100647	2000-05-10	Urban	WI	Midwest	4077100.00	Masonry	Apartment	Y	Y
+100602	2000-05-11	Rural	NY	East	1651300.00	Frame	Farming	N	N
+100672	2000-05-11	Urban	VT	Northeast	2785000.00	Frame	Organization	N	N
+100600	2000-05-12	Urban	WI	Midwest	3086048.00	Frame	Hospitality	Y	Y
+100655	2000-05-12	Urban	NY	East	1974300.00	Masonry	Organization	Y	Y
+100671	2000-05-12	Rural	NY	East	3660780.00	Frame	Farming	N	N
+100646	2000-05-13	Urban	NY	East	2550000.00	Frame	Apartment	Y	Y
+100618	2000-05-14	Urban	NY	East	2730000.00	Metal Clad	Hospitality	Y	Y
+100681	2000-05-14	Urban	NY	East	963100.00	Metal Clad	Apartment	Y	Y
+100619	2000-05-15	Rural	NY	East	1419500.00	Frame	Farming	N	N
+100627	2000-05-16	Urban	NY	East	2758482.00	Fire Resist	Apartment	Y	Y
+100670	2000-05-16	Urban	OH	Central	661900.00	Frame	Apartment	N	N
+100689	2000-05-16	Urban	NY	East	19451600.00	Frame	Office Bldg	Y	Y
+100726	2000-05-16	Urban	NY	East	1292345.00	Frame	Office Bldg	N	N
+100702	2000-05-17	Urban	VT	Northeast	9702682.00	Frame	Apartment	N	N
+100703	2000-05-17	Urban	NJ	East	10198700.00	Fire Resist	Office Bldg	Y	Y
+100635	2000-05-18	Urban	MI	Central	714000.00	Frame	Apartment	N	N
+100736	2000-05-18	Rural	VT	Northeast	2099525.00	Frame	Farming	N	N
+100737	2000-05-18	Urban	NJ	East	16200000.00	Frame	Office Bldg	Y	Y
+100644	2000-05-19	Urban	NY	East	2570600.00	Masonry	Office Bldg	Y	Y
+100643	2000-05-20	Urban	NY	East	1280000.00	Fire Resist	Hospitality	Y	Y
+100698	2000-05-20	Urban	NY	East	205000.00	Fire Resist	Retail	N	N
+100652	2000-05-21	Urban	OH	Central	1760800.00	Frame	Apartment	N	N
+100653	2000-05-21	Urban	NJ	East	2812559.00	Frame	Farming	N	N
+100705	2000-05-21	Rural	NY	East	3943000.00	Frame	Farming	N	N
+100718	2000-05-21	Urban	NY	East	3107790.00	Masonry	Office Bldg	N	Y
+100744	2000-05-21	Urban	NY	East	9448200.00	Frame	Apartment	Y	Y
+100709	2000-05-22	Rural	MI	Central	10617800.00	Frame	Manufacturing	Y	Y
+100749	2000-05-22	Urban	NY	East	847300.00	Frame	Apartment	Y	Y
+100751	2000-05-22	Urban	NJ	East	400000.00	Masonry	Office Bldg	N	Y
+100752	2000-05-22	Urban	NY	East	363200.00	Frame	Office Bldg	N	Y
+100696	2000-05-23	Urban	IL	Midwest	2922600.00	Masonry	Apartment	Y	Y
+100742	2000-05-23	Urban	WI	Midwest	500500.00	Masonry	Apartment	Y	Y
+100666	2000-05-24	Rural	NY	East	1927450.00	Frame	Farming	N	N
+100667	2000-05-25	Rural	NY	East	2660299.00	Frame	Farming	N	N
+100740	2000-05-25	Urban	WI	Midwest	3980100.00	Masonry	Apartment	N	N
+100757	2000-05-25	Urban	WI	Midwest	2987000.00	Masonry	Apartment	Y	Y
+100750	2000-05-27	Urban	VT	Northeast	16429900.00	Frame	Apartment	Y	Y
+100756	2000-05-27	Urban	NY	East	16950000.00	Frame	Apartment	Y	Y
+100754	2000-05-29	Urban	NY	East	36909180.00	Metal Clad	Manufacturing	Y	Y
+100764	2000-05-29	Urban	NY	East	9600000.00	Frame	Office Bldg	Y	N
+100724	2000-05-30	Urban	NY	East	22050000.00	Frame	Office Bldg	Y	Y
+100686	2000-06-01	Urban	NY	East	3850000.00	Frame	Construction	N	Y
+100761	2000-06-02	Urban	VT	Northeast	13514081.00	Frame	Recreation	Y	Y
+100695	2000-06-03	Urban	NY	East	2000000.00	Frame	Hospitality	Y	Y
+100727	2000-06-03	Rural	WI	Midwest	1658765.00	Masonry	Farming	N	N
+100777	2000-06-03	Urban	OH	Central	8272853.00	Masonry	Apartment	N	N
+100774	2000-06-04	Urban	NY	East	6750000.00	Frame	Apartment	Y	Y
+100720	2000-06-05	Urban	IL	Midwest	7828000.00	Masonry	Office Bldg	N	Y
+100723	2000-06-05	Urban	NJ	East	373500.00	Frame	Office Bldg	N	N
+100759	2000-06-05	Urban	NY	East	17050000.00	Frame	Office Bldg	Y	Y
+100722	2000-06-06	Rural	NY	East	1958400.00	Frame	Farming	N	N
+100731	2000-06-06	Urban	NY	East	17746832.00	Masonry	Apartment	Y	Y
+100755	2000-06-06	Urban	WI	Midwest	6040300.00	Masonry	Apartment	Y	N
+100745	2000-06-07	Rural	WI	Midwest	2224219.00	Frame	Farming	N	N
+100746	2000-06-07	Urban	NY	East	847300.00	Frame	Office Bldg	Y	Y
+100747	2000-06-07	Urban	WI	Midwest	782428.00	Masonry	Apartment	N	N
+100780	2000-06-08	Urban	NJ	East	299400.00	Frame	Office Bldg	Y	N
+100760	2000-06-09	Urban	WI	Midwest	1397100.00	Masonry	Office Bldg	Y	Y
+100781	2000-06-09	Urban	NY	East	1714835.00	Frame	Apartment	N	N
+100783	2000-06-09	Urban	MI	Central	1991600.00	Frame	Organization	N	N
+100768	2000-06-10	Urban	WI	Midwest	3701573.00	Frame	Farming	N	N
+100769	2000-06-10	Urban	NJ	East	5460000.00	Frame	Apartment	Y	Y
+100775	2000-06-10	Rural	NY	East	3136600.00	Frame	Farming	N	N
+100773	2000-06-11	Urban	NY	East	1780000.00	Frame	Hospitality	Y	Y
+100789	2000-08-26	Urban	NY	East	230000.00	Frame	Manufacturing	Y	Y
+100790	2000-08-26	Urban	NJ	East	1463800.00	Frame	Farming	Y	N
+100792	2000-08-26	Rural	VT	Northeast	3579800.00	Metal Clad	Farming	N	N
+100793	2000-08-27	Urban	NY	East	1275600.00	Frame	Apartment	N	Y
+100797	2000-08-29	Rural	NY	East	5781710.00	Frame	Farming	N	N
+100799	2000-08-30	Urban	NH	Northeast	320000.00	Masonry	Retail	N	N
+100800	2000-08-30	Urban	NY	East	1379400.00	Frame	Apartment	N	N
+100801	2000-08-31	Rural	WI	Midwest	6385452.00	Frame	Farming	Y	N
+100803	2000-08-31	Urban	WI	Midwest	4671000.00	Masonry	Apartment	Y	Y
+100805	2000-09-01	Rural	NY	East	199000.00	Frame	Retail	N	N
+100808	2000-09-02	Urban	WI	Midwest	2100000.00	Frame	Apartment	N	N
+100810	2000-09-02	Urban	NY	East	1875000.00	Masonry	Hospitality	Y	Y
+100811	2000-09-02	Rural	WI	Midwest	2201500.00	Frame	Farming	N	N
+100813	2000-09-02	Urban	NY	East	1986100.00	Frame	Apartment	N	N
+100814	2000-09-02	Urban	WI	Midwest	105000.00	Masonry	Other	N	N
+100817	2000-09-03	Urban	NJ	East	3700000.00	Masonry	Office Bldg	Y	Y
+100818	2000-09-03	Urban	IL	Midwest	29128000.00	Fire Resist	Apartment	Y	Y
+100819	2000-09-05	Urban	VT	Northeast	10700000.00	Frame	Hospitality	Y	Y
+100821	2000-09-05	Rural	WI	Midwest	1778600.00	Frame	Farming	N	N
+100822	2000-09-06	Rural	NY	East	3866420.00	Frame	Farming	N	N
+100823	2000-09-06	Urban	NY	East	1037500.00	Frame	Manufacturing	N	N
+100824	2000-09-07	Rural	NY	East	2480800.00	Frame	Farming	N	N
+100825	2000-09-07	Urban	WI	Midwest	578400.00	Masonry	Office Bldg	N	N
+100826	2000-09-07	Urban	NY	East	3178400.00	Frame	Office Bldg	Y	Y
+100828	2000-09-09	Urban	ME	Northeast	7150000.00	Masonry	Apartment	Y	Y
+100831	2000-09-10	Urban	NJ	East	1604800.00	Frame	Hospitality	Y	Y
+100832	2000-09-10	Urban	NY	East	18275350.00	Frame	Office Bldg	Y	Y
+100834	2000-09-11	Urban	NY	East	710400.00	Masonry	Office Bldg	N	N
+100836	2000-09-11	Urban	WI	Midwest	2205950.00	Masonry	Apartment	N	N
+100837	2000-09-11	Urban	WI	Midwest	8166050.00	Fire Resist	Apartment	N	Y
+100838	2000-09-11	Urban	WI	Midwest	3222081.00	Masonry	Farming	N	N
+100839	2000-09-13	Urban	NJ	East	371600.00	Frame	Hospitality	Y	N
+100844	2000-09-15	Urban	WI	Midwest	1365000.00	Masonry	Hospitality	Y	Y
+100845	2000-09-15	Urban	NY	East	24000000.00	Frame	Apartment	Y	Y
+100846	2000-09-15	Urban	NY	East	7700000.00	Fire Resist	Construction	Y	Y
+100850	2000-09-16	Urban	IL	Midwest	4578800.00	Frame	Farming	N	N
+100854	2000-09-21	Rural	VT	Northeast	2477200.00	Frame	Farming	N	N
+100856	2000-09-22	Urban	NJ	East	3432600.00	Frame	Office Bldg	Y	Y
+100857	2000-09-23	Rural	IL	Midwest	172100.00	Frame	Farming	N	N
+100859	2000-09-23	Urban	NY	East	11147050.00	Fire Resist	Apartment	Y	Y
+100861	2000-09-23	Urban	NY	East	2007000.00	Frame	Office Bldg	Y	Y
+100863	2000-09-24	Urban	NY	East	9404500.00	Frame	Apartment	Y	Y
+100864	2000-09-24	Urban	NY	East	5056900.00	Fire Resist	Apartment	Y	Y
+100868	2000-09-26	Urban	WI	Midwest	4577032.00	Frame	Farming	N	N
+100869	2000-09-26	Urban	NY	East	953100.00	Metal Clad	Office Bldg	N	N
+100870	2000-09-27	Rural	NY	East	2562500.00	Fire Resist	Manufacturing	N	N
+100872	2000-09-28	Urban	NY	East	6908000.00	Frame	Office Bldg	Y	Y
+100873	2000-09-29	Urban	VT	Northeast	1588100.00	Masonry	Recreation	N	N
+100874	2000-09-30	Urban	NY	East	311200.00	Frame	Apartment	N	N
+100875	2000-10-01	Urban	NY	East	14850000.00	Frame	Office Bldg	Y	Y
+100876	2000-10-01	Urban	NY	East	1557500.00	Frame	Office Bldg	N	Y
+100878	2000-10-01	Urban	NY	East	4267000.00	Frame	Office Bldg	Y	Y
+100882	2000-10-03	Urban	IL	Midwest	1702350.00	Frame	Apartment	N	N
+100883	2000-10-04	Urban	NY	East	280600.00	Frame	Office Bldg	N	N
+100885	2000-10-04	Urban	WI	Midwest	2025100.00	Masonry	Office Bldg	N	N
+100886	2000-10-04	Urban	NY	East	6748000.00	Frame	Apartment	Y	Y
+100887	2000-10-05	Urban	WI	Midwest	2067500.00	Fire Resist	Service	Y	Y
+100889	2000-10-05	Urban	NY	East	3235700.00	Frame	Apartment	Y	Y
+100894	2000-10-07	Urban	NY	East	2356100.00	Frame	Hospitality	Y	Y
+100895	2000-10-07	Urban	NY	East	7932500.00	Frame	Apartment	Y	Y
+100898	2000-10-10	Urban	NY	East	1851125.00	Frame	Office Bldg	N	N
+100900	2000-10-11	Urban	NY	East	8345500.00	Frame	Apartment	Y	Y
+100901	2000-10-11	Urban	NY	East	2400000.00	Frame	Construction	Y	Y
+100903	2000-10-12	Urban	WI	Midwest	1675000.00	Frame	Hospitality	Y	Y
+100904	2000-10-13	Urban	NH	Northeast	145680.00	Frame	Office Bldg	N	N
+100908	2000-10-14	Urban	NY	East	13900000.00	Frame	Office Bldg	Y	Y
+100909	2000-10-14	Urban	NY	East	13575000.00	Frame	Office Bldg	Y	Y
+100910	2000-10-14	Urban	NY	East	5950500.00	Metal Clad	Office Bldg	Y	Y
+100912	2000-10-15	Urban	OH	Central	1569440.00	Masonry	Organization	N	N
+100215	2000-10-17	Urban	NY	East	2131900.00	Masonry	Retail	N	N
+100914	2000-10-17	Urban	WI	Midwest	631410.00	Frame	Farming	N	N
+100916	2000-10-18	Urban	NY	East	1856637.00	Masonry	Hospitality	Y	Y
+100919	2000-10-20	Urban	WI	Midwest	2321900.00	Frame	Manufacturing	N	N
+100920	2000-10-20	Urban	NJ	East	4726686.00	Frame	Farming	Y	N
+100228	2000-10-21	Urban	ME	Northeast	1444255.00	Frame	Organization	N	N
+100923	2000-10-21	Urban	NY	East	1830900.00	Frame	Office Bldg	N	N
+100927	2000-10-22	Urban	VT	Northeast	1325200.00	Frame	Organization	N	N
+100928	2000-10-22	Urban	NY	East	1267625.00	Frame	Office Bldg	N	N
+100929	2000-10-22	Rural	NY	East	3409000.00	Metal Clad	Farming	N	N
+100214	2000-10-23	Urban	NY	East	33250000.00	Frame	Apartment	Y	Y
+100932	2000-10-23	Urban	NJ	East	320100.00	Frame	Apartment	N	N
+100933	2000-10-23	Urban	WI	Midwest	275000.00	Masonry	Apartment	N	N
+100934	2000-10-24	Urban	WI	Midwest	1519100.00	Masonry	Apartment	N	N
+100936	2000-10-26	Rural	IL	Midwest	2182250.00	Frame	Farming	N	N
+100250	2000-10-27	Rural	WI	Midwest	4328620.00	Frame	Farming	N	N
+100939	2000-10-27	Urban	NJ	East	1840000.00	Masonry	Apartment	N	N
+100940	2000-10-28	Urban	NY	East	21250000.00	Frame	Office Bldg	Y	Y
+100941	2000-10-28	Rural	NY	East	2534633.00	Frame	Farming	N	N
+100942	2000-10-28	Urban	NY	East	2494300.00	Frame	Apartment	Y	Y
+100943	2000-10-28	Urban	NY	East	2562500.00	Frame	Apartment	Y	Y
+100227	2000-10-29	Urban	WI	Midwest	685000.00	Masonry	Hospitality	Y	Y
+100945	2000-10-29	Urban	NY	East	503000.00	Masonry	Hospitality	N	Y
+100947	2000-10-29	Urban	NY	East	10259600.00	Frame	Apartment	Y	Y
+100226	2000-10-30	Urban	NY	East	3798400.00	Metal Clad	Office Bldg	Y	Y
+100948	2000-10-30	Urban	NJ	East	2269865.00	Masonry	Retail	Y	Y
+100950	2000-10-31	Urban	NY	East	2363700.00	Frame	Farming	N	N
+100249	2000-11-01	Urban	WI	Midwest	1960200.00	Masonry	Farming	N	N
+100952	2000-11-01	Urban	IL	Midwest	16833800.00	Fire Resist	Apartment	Y	Y
+100953	2000-11-01	Rural	NY	East	4127900.00	Metal Clad	Farming	N	N
+100955	2000-11-03	Urban	NJ	East	2753500.00	Masonry	Office Bldg	Y	Y
+100287	2000-11-04	Urban	NY	East	10518041.00	Frame	Office Bldg	Y	Y
+100956	2000-11-04	Urban	NJ	East	1554500.00	Frame	Farming	N	N
+100959	2000-11-05	Urban	NJ	East	1115870.00	Frame	Farming	Y	N
+100261	2000-11-06	Urban	NY	East	15625000.00	Frame	Office Bldg	Y	Y
+100961	2000-11-06	Urban	IL	Midwest	787500.00	Frame	Apartment	N	N
+100962	2000-11-07	Urban	NY	East	15750000.00	Masonry	Apartment	Y	Y
+100966	2000-11-07	Urban	OH	Central	320000.00	Masonry	Retail	N	N
+100969	2000-11-09	Rural	WI	Midwest	2611400.00	Frame	Farming	N	N
+100972	2000-11-09	Rural	NY	East	2398000.00	Metal Clad	Farming	N	N
+100974	2000-11-10	Urban	NJ	East	2329942.00	Frame	Farming	Y	N
+100975	2000-11-10	Urban	MN	Midwest	1305100.00	Frame	Apartment	Y	Y
+100977	2000-11-10	Rural	NY	East	4981500.00	Frame	Farming	N	N
+100978	2000-11-10	Urban	NY	East	535000.00	Fire Resist	Retail	N	N
+100981	2000-11-10	Urban	NY	East	10397500.00	Frame	Apartment	Y	Y
+100240	2000-11-11	Urban	NJ	East	2003000.00	Masonry	Apartment	Y	Y
+100982	2000-11-11	Urban	NY	East	10808800.00	Frame	Office Bldg	Y	Y
+100983	2000-11-11	Urban	NY	East	1962400.00	Frame	Apartment	N	N
+100239	2000-11-12	Urban	NJ	East	2423500.00	Frame	Apartment	Y	Y
+100985	2000-11-12	Rural	NY	East	3067800.00	Frame	Farming	N	N
+100237	2000-11-13	Urban	OH	Central	1202090.00	Frame	Organization	N	N
+100238	2000-11-13	Urban	NJ	East	3062000.00	Frame	Apartment	Y	Y
+100986	2000-11-13	Urban	NY	East	2815900.00	Metal Clad	Manufacturing	N	N
+100987	2000-11-13	Urban	ME	Northeast	790000.00	Masonry	Apartment	N	N
+100988	2000-11-13	Urban	NJ	East	1975000.00	Fire Resist	Hospitality	Y	Y
+100260	2000-11-14	Urban	WI	Midwest	2070000.00	Masonry	Apartment	N	N
+100302	2000-11-14	Urban	NY	East	847300.00	Frame	Apartment	Y	Y
+100274	2000-11-15	Urban	NY	East	2029750.00	Frame	Apartment	N	N
+100209	2000-11-16	Rural	NY	East	2636313.00	Frame	Farming	N	N
+100991	2000-11-16	Urban	NY	East	2080000.00	Masonry	Hospitality	Y	Y
+100992	2000-11-16	Urban	NJ	East	205000.00	Fire Resist	Retail	Y	Y
+100993	2000-11-16	Urban	NJ	East	1936200.00	Frame	Farming	N	N
+100994	2000-11-17	Urban	WI	Midwest	1403100.00	Frame	Medical	N	N
+100259	2000-11-18	Urban	MI	Central	315000.00	Frame	Apartment	N	N
+100273	2000-11-19	Urban	NY	East	2000000.00	Masonry	Apartment	Y	Y
+100996	2000-11-19	Urban	NY	East	9900000.00	Frame	Apartment	Y	Y
+100998	2000-11-19	Urban	MI	Central	3255300.00	Frame	Hospitality	N	N
+100999	2000-11-19	Rural	NY	East	4477175.00	Frame	Farming	Y	N
+101000	2000-11-19	Urban	NY	East	2395000.00	Frame	Hospitality	N	Y
+100257	2000-11-20	Urban	NY	East	5550000.00	Fire Resist	Apartment	Y	Y
+100258	2000-11-21	Urban	NY	East	1922800.00	Metal Clad	Office Bldg	Y	Y
+101003	2000-11-21	Urban	NJ	East	3028850.00	Frame	Farming	Y	N
+101005	2000-11-21	Rural	NY	East	10811785.00	Metal Clad	Retail	N	N
+100208	2000-11-22	Urban	NY	East	30000.00	Fire Resist	Service	Y	Y
+101008	2000-11-22	Urban	NY	East	15700000.00	Frame	Office Bldg	Y	Y
+101009	2000-11-22	Urban	WI	Midwest	5503255.00	Masonry	Office Bldg	N	N
+100307	2000-11-23	Urban	WI	Midwest	5015000.00	Masonry	Manufacturing	N	N
+101011	2000-11-23	Urban	MI	Central	601000.00	Frame	Other	N	N
+101012	2000-11-24	Urban	NJ	East	1563500.00	Frame	Retail	Y	Y
+100271	2000-11-25	Rural	NY	East	10979275.00	Frame	Farming	N	N
+100301	2000-11-25	Urban	NY	East	6198000.00	Frame	Office Bldg	Y	Y
+101016	2000-11-25	Urban	WI	Midwest	504000.00	Frame	Apartment	N	N
+101019	2000-11-26	Urban	WI	Midwest	2211300.00	Masonry	Service	Y	Y
+100336	2000-11-27	Rural	VT	Northeast	6000902.00	Frame	Farming	Y	Y
+101023	2000-11-27	Urban	NY	East	660473.00	Frame	Apartment	N	N
+101024	2000-11-27	Urban	NJ	East	4978985.00	Frame	Farming	Y	N
+100206	2000-11-28	Urban	NY	East	5213100.00	Frame	Apartment	Y	Y
+100286	2000-11-28	Rural	NY	East	2336132.00	Metal Clad	Farming	N	N
+100324	2000-11-28	Urban	NJ	East	6253000.00	Frame	Apartment	Y	Y
+100334	2000-11-28	Urban	NY	East	1500000.00	Fire Resist	Hospitality	Y	Y
+100335	2000-11-28	Rural	WI	Midwest	2984500.00	Metal Clad	Farming	N	N
+101025	2000-11-28	Urban	WI	Midwest	2502600.00	Masonry	Apartment	Y	Y
+101029	2000-11-28	Urban	NY	East	8115500.00	Fire Resist	Apartment	Y	Y
+101031	2000-11-29	Rural	NY	East	2162291.00	Frame	Farming	N	N
+100205	2000-11-30	Rural	WI	Midwest	4064995.00	Masonry	Farming	N	N
+100222	2000-11-30	Rural	NY	East	3295800.00	Frame	Farming	N	N
+101034	2000-11-30	Urban	NY	East	9710700.00	Frame	Apartment	Y	Y
+100221	2000-12-01	Urban	NY	East	2350000.00	Masonry	Apartment	Y	Y
+100246	2000-12-01	Urban	NJ	East	1807440.00	Frame	Organization	Y	Y
+100298	2000-12-01	Urban	WI	Midwest	3175400.00	Masonry	Office Bldg	Y	Y
+101035	2000-12-01	Urban	WI	Midwest	3741300.00	Fire Resist	Apartment	Y	Y
+100333	2000-12-02	Rural	NY	East	2806200.00	Frame	Farming	N	N
+101036	2000-12-02	Urban	VT	Northeast	6169400.00	Frame	Apartment	Y	Y
+101037	2000-12-02	Urban	NY	East	2325718.00	Metal Clad	Manufacturing	N	N
+101039	2000-12-03	Urban	NY	East	245000.00	Frame	Service	N	N
+101042	2000-12-03	Urban	WI	Midwest	4201800.00	Frame	Farming	N	N
+101043	2000-12-04	Rural	WI	Midwest	2820265.00	Frame	Farming	N	N
+101044	2000-12-04	Urban	NY	East	12220000.00	Frame	Office Bldg	Y	Y
+100219	2000-12-05	Urban	NY	East	1144300.00	Frame	Apartment	Y	Y
+100220	2000-12-05	Urban	NY	East	4530000.00	Frame	Apartment	Y	Y
+100235	2000-12-05	Urban	ME	Northeast	552300.00	Frame	Apartment	N	N
+100300	2000-12-05	Urban	NY	East	2000300.00	Masonry	Office Bldg	N	N
+101046	2000-12-05	Urban	NJ	East	3990000.00	Frame	Apartment	Y	Y
+100366	2000-12-07	Urban	NJ	East	5850000.00	Frame	Apartment	Y	Y
+101052	2000-12-07	Urban	NJ	East	6250000.00	Frame	Apartment	Y	Y
+101053	2000-12-07	Urban	NH	Northeast	1327600.00	Frame	Apartment	N	N
+101054	2000-12-07	Urban	NY	East	1510000.00	Masonry	Hospitality	N	N
+100234	2000-12-08	Urban	NY	East	3871000.00	Frame	Apartment	Y	Y
+100269	2000-12-09	Urban	NY	East	513300.00	Frame	Apartment	N	N
+100317	2000-12-09	Rural	NY	East	2943800.00	Frame	Farming	N	N
+100318	2000-12-09	Urban	WI	Midwest	3952500.00	Masonry	Manufacturing	Y	Y
+100319	2000-12-09	Urban	NY	East	8923000.00	Frame	Apartment	Y	Y
+101058	2000-12-09	Urban	WI	Midwest	2900000.00	Fire Resist	Apartment	Y	Y
+101061	2000-12-09	Urban	NY	East	6450000.00	Frame	Office Bldg	Y	Y
+100365	2000-12-10	Urban	NY	East	4479400.00	Frame	Apartment	N	N
+100374	2000-12-11	Urban	WI	Midwest	2030600.00	Frame	Farming	N	N
+101066	2000-12-11	Rural	NY	East	2013357.00	Frame	Farming	N	N
+101067	2000-12-11	Rural	NY	East	4017155.00	Frame	Farming	N	N
+101068	2000-12-11	Urban	NY	East	11650000.00	Frame	Office Bldg	Y	Y
+100244	2000-12-12	Urban	NY	East	9250000.00	Frame	Apartment	Y	Y
+101069	2000-12-12	Rural	VT	Northeast	2198800.00	Frame	Farming	N	N
+101070	2000-12-12	Rural	NY	East	3553009.00	Frame	Farming	N	N
+101071	2000-12-12	Urban	WI	Midwest	1063100.00	Masonry	Apartment	Y	Y
+101073	2000-12-13	Urban	NY	East	2854500.00	Masonry	Apartment	Y	Y
+101074	2000-12-13	Urban	NJ	East	3356200.00	Masonry	Construction	Y	Y
+100364	2000-12-14	Rural	NY	East	1882600.00	Frame	Farming	N	N
+101075	2000-12-14	Rural	NY	East	2393232.00	Frame	Farming	N	N
+101076	2000-12-14	Urban	NY	East	14678200.00	Frame	Office Bldg	Y	Y
+100218	2000-12-17	Rural	NY	East	5017360.00	Frame	Farming	N	N
+101083	2000-12-18	Urban	NY	East	2625000.00	Frame	Apartment	Y	Y
+101088	2000-12-19	Urban	NY	East	285700.00	Frame	Office Bldg	N	N
+101089	2000-12-19	Urban	NY	East	275000.00	Fire Resist	Retail	Y	N
+101090	2000-12-19	Urban	NY	East	10396250.00	Frame	Office Bldg	Y	Y
+101091	2000-12-19	Urban	NY	East	27208210.00	Fire Resist	Apartment	Y	Y
+101092	2000-12-19	Urban	WI	Midwest	1740000.00	Masonry	Office Bldg	N	N
+101093	2000-12-19	Rural	WI	Midwest	2464755.00	Metal Clad	Farming	N	N
+100347	2000-12-20	Urban	NY	East	535000.00	Frame	Office Bldg	N	N
+101094	2000-12-20	Urban	NJ	East	2837500.00	Frame	Manufacturing	Y	Y
+100204	2000-12-21	Urban	WI	Midwest	1400000.00	Masonry	Organization	N	N
+100344	2000-12-21	Urban	WI	Midwest	1711268.00	Frame	Manufacturing	N	N
+100346	2000-12-21	Urban	NY	East	1780000.00	Masonry	Hospitality	Y	Y
+100391	2000-12-21	Urban	NY	East	10746600.00	Frame	Apartment	Y	Y
+101096	2000-12-21	Urban	NY	East	645000.00	Fire Resist	Retail	N	N
+100203	2000-12-22	Rural	NY	East	3724339.00	Frame	Farming	N	N
+100231	2000-12-22	Urban	NY	East	12493000.00	Frame	Apartment	Y	Y
+101098	2000-12-22	Urban	WI	Midwest	539040.00	Frame	Retail	N	N
+101100	2000-12-22	Urban	NY	East	2159000.00	Frame	Retail	N	N
+100202	2000-12-23	Urban	NJ	East	3750000.00	Frame	Apartment	Y	Y
+100217	2000-12-23	Rural	NY	East	100000.00	Metal Clad	Farming	N	N
+101102	2000-12-23	Rural	NY	East	1121600.00	Metal Clad	Farming	N	N
+100305	2000-12-24	Urban	NY	East	9000000.00	Fire Resist	Apartment	Y	Y
+101104	2000-12-24	Urban	NY	East	292200.00	Frame	Apartment	Y	Y
+101105	2000-12-24	Urban	NH	Northeast	345000.00	Metal Clad	Retail	N	N
+100201	2000-12-25	Urban	NY	East	11575700.00	Frame	Apartment	Y	Y
+100230	2000-12-25	Urban	OH	Central	608500.00	Frame	Apartment	N	N
+100295	2000-12-25	Urban	NJ	East	5114500.00	Frame	Office Bldg	Y	Y
+100360	2000-12-25	Urban	WI	Midwest	4822450.00	Masonry	Office Bldg	Y	Y
+100361	2000-12-25	Urban	NY	East	1125600.00	Masonry	Apartment	N	N
+101107	2000-12-25	Urban	NY	East	9377600.00	Frame	Apartment	Y	Y
+101109	2000-12-25	Rural	NY	East	3920500.00	Frame	Farming	N	N
+100229	2000-12-26	Urban	NH	Northeast	626000.00	Masonry	Office Bldg	N	N
+100282	2000-12-26	Rural	WI	Midwest	4132600.00	Frame	Farming	N	N
+101111	2000-12-26	Rural	NY	East	6235057.00	Frame	Farming	N	N
+100400	2000-12-27	Rural	VT	Northeast	1960000.00	Frame	Farming	N	N
+101113	2000-12-27	Rural	NY	East	2500000.00	Metal Clad	Farming	N	N
+101114	2000-12-27	Urban	IL	Midwest	3883300.00	Metal Clad	Farming	N	N
+100200	2000-12-28	Urban	NY	East	1425000.00	Masonry	Apartment	N	N
+100330	2000-12-28	Urban	NY	East	1545100.00	Frame	Office Bldg	Y	Y
+101115	2000-12-28	Urban	WI	Midwest	1665100.00	Frame	Apartment	N	N
+101116	2000-12-29	Urban	NY	East	8245000.00	Frame	Apartment	Y	Y
+100216	2000-12-30	Urban	NJ	East	2432600.00	Frame	Retail	Y	Y
+100389	2000-12-30	Urban	NY	East	1480000.00	Fire Resist	Hospitality	Y	Y
+101117	2000-12-30	Urban	NY	East	9050000.00	Frame	Apartment	Y	Y
+101120	2000-12-30	Rural	NY	East	1480755.00	Frame	Farming	N	N
+101121	2000-12-31	Urban	VT	Northeast	4101750.00	Fire Resist	Office Bldg	Y	Y
+101122	2000-12-31	Urban	OH	Central	1739100.00	Frame	Apartment	N	N
+101123	2000-12-31	Urban	NY	East	2250000.00	Frame	Office Bldg	Y	Y
+101125	2000-12-31	Urban	NY	East	16482200.00	Frame	Office Bldg	Y	Y
+101126	2000-12-31	Urban	WI	Midwest	1776800.00	Frame	Farming	N	N
