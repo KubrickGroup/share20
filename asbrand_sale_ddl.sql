@@ -13,5 +13,7 @@ CREATE TABLE XXXXX.sale
 	full_name varchar(100) NOT NULL,
 	city varchar(50) NOT NULL,
 	postal_code varchar(10) NOT NULL,
-	email nvarchar(255) NOT NULL
+	email nvarchar(255) NOT NULL,
+	producturl VARCHAR(1000) NULL,
+	productdescription VARCHAR(1000) NULL
 );
