@@ -5,8 +5,12 @@ echo Kraft with a single node
 echo ************************
 
 echo Installing Java
-sudo apt install openjdk-17-jre-headless
 
+sudo apt --assume-yes install default-jre
+sudo apt --assume-yes install default-jdk
+
+echo
+echo
 echo Installing Kafka Broker
 
 mkdir kafkainst
