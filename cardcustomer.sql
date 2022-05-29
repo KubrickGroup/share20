@@ -1,6 +1,6 @@
 CREATE TABLE XXXXX.cardcustomer
 (
- ClientNum BIGINT
+ ClientNum BIGINT PRIMARY KEY
 ,Attrition_Flag VARCHAR(100)
 ,Customer_Age INT
 ,Gender VARCHAR(10)
