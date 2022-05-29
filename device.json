@@ -1,0 +1,41 @@
+[{
+	"product": "iPad",
+	"category": "Tablet",
+	"price": 789
+}, {
+	"product": "iPhone",
+	"category": "Mobile",
+	"price": 999
+}, {
+	"product": "Lenovo",
+	"category": "Tablet",
+	"price": 499
+}, {
+	"product": "Mi",
+	"category": "Mobile",
+	"price": 299
+}, {
+	"product": "Micromax",
+	"category": "Mobile",
+	"price": 249
+}, {
+	"product": "OnePlus",
+	"category": "Mobile",
+	"price": 356
+}, {
+	"product": "Redmi Note",
+	"category": "Mobile",
+	"price": 399
+}, {
+	"product": "Samsung JX",
+	"category": "Mobile",
+	"price": 799
+}, {
+	"product": "Samsung TX",
+	"category": "Tablet",
+	"price": 999
+}, {
+	"product": "Xu",
+	"category": "Tablet",
+	"price": 267
+}]
