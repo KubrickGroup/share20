@@ -5,8 +5,8 @@ DROP TABLE IF EXISTS XXXXXX.country;
 
 CREATE TABLE XXXXXX.country (
 	iso2code CHAR(2) NOT NULL PRIMARY KEY,
-	name VARCHAR(255) NOT NULL,
-	fullname VARCHAR(255),
+	name NVARCHAR(100) NOT NULL,
+	fullname NVARCHAR(100),
 	iso3code CHAR(3) NOT NULL,
 	number CHAR(3) NOT NULL,
 	continentcode CHAR(2) NOT NULL
