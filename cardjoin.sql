@@ -6,7 +6,7 @@ CREATE TABLE XXXXXX.cardjoin (
 	 amount decimal (10, 2) NOT NULL,
 	 trans_date date NOT NULL,
 	 balance decimal (10, 2) NOT NULL,
-	 CONSTRAINT pk_cardjoin PRIMARY KEY (clientnum,transid)
+	 CONSTRAINT pk_cardjoin PRIMARY KEY (clientnum,trans_id)
 );
 
 CREATE TABLE XXXXXX.cardlatest (
