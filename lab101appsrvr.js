@@ -52,6 +52,7 @@ app.get('/api/insertNew/:itemx', function (req, res) {
     var sometext = sometext.replace(new RegExp("'",'g'),"''")
     var somesql = `INSERT INTO something (sometext) VALUES ('${sometext}');`
 
+    console.log(somesql)
     
     // connect to the database
     sql.connect(config, function (err) {
