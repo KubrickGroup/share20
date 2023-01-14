@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <style>
+      table, td {
+        border: 1px solid #444; border-collapse: collapse;
+        padding: 4px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      table th {
+        border: 1px solid #444; border-collapse: collapse;
+        padding: 4px;
+      }
+      body {
+        font-family: sans-serif;
+      }
+      label {
+          color: blue;
+      }
+      img {
+        padding: 50px;
+      }
+      .column {
+        float: left;
+        width: 50%;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      
+      code {
+          font-family: Consolas,"courier new";
+          color: red;
+          background-color: #f1f1f1;
+          padding: 2px;
+          font-size: 105%;
+        }
+      
+      </style>
+
+    </head>
+<body>
+
+<h2>A very simple application using a database</h2>
+
+<div id="demo">
+    <button type="button" onclick="queryAll()">Query</button>
+</div>
+
+<p>
+  <div id="resultx">
+  </div>
+</p>
+
+<p>Insert a new value</p>
+<input type="text" id="inputval" value="">
+<button onclick="insertNew()">Insert</button>
+
+<script>
+  ///////////////////////////////////////////////////////////////////////
+  // JavaScript
+  // Connect to the API
+  var xhttp = new XMLHttpRequest();
+
+  xhttp.onload = function() {
+
+    rt = xhttp.responseText
+    console.log(rt)
+
+    try{
+      r = JSON.parse(rt);
+    }catch (e){
+      //not JSON
+      return false;
+    }
+
+    recordset = r.recordset;
+
+    table = "<table><tr><th>col2</th><th>col2</th><th>col3</th></tr>";
+
+    for (let i = 0; i < recordset.length; i++) {
+        table += "<tr>";
+        table += "<td>" + recordset[i].id + "</td>";
+        table += "<td>" + recordset[i].sometext + "</td>";
+        table += "<td>" + recordset[i].timestamp + "</td>";
+        table += "</tr>";
+        }
+
+    table += "</table>";
+
+    document.getElementById("resultx").innerHTML = table;
+  }
+
+  // Query the database (retrieve all rows)
+  function queryAll() {
+    xhttp.open("GET", "http://labnut100.eastus.cloudapp.azure.com:8000/api/queryAll", true);
+    xhttp.send();
+  }
+
+  // Insert a new row
+  function insertNew() {
+    var inputval = document.getElementById("inputval").value;
+    xhttp.open("GET", `http://labnut100.eastus.cloudapp.azure.com:8000/api/insertNew/${inputval}`, true);
+    xhttp.send();
+    document.getElementById("inputval").value = ""
+  }
+</script>
+
+</body>
+</html>
