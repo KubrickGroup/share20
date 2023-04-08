@@ -15,9 +15,9 @@ echo Installing Kafka Broker
 
 mkdir kafkainst
 cd kafkainst
-wget https://dlcdn.apache.org/kafka/3.2.0/kafka_2.12-3.2.0.tgz
-tar -zxf kafka_2.12-3.2.0.tgz
-sudo mv kafka_2.12-3.2.0 /usr/local/kafka
+wget https://dlcdn.apache.org/kafka/3.2.3/kafka_2.12-3.2.3.tgz
+tar -zxf kafka_2.12-3.2.3.tgz
+sudo mv kafka_2.12-3.2.3 /usr/local/kafka
 mkdir /tmp/kafka-logs
 
 # create a file with the advertised.listeners setting and the public ip address
