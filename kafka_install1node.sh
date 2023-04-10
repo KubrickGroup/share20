@@ -1,5 +1,5 @@
 echo ************************
-echo KAFKA 3.2.0 INSTALLATION
+echo KAFKA 3.2.3 INSTALLATION
 echo ************************
 echo Kraft with a single node
 echo ************************
