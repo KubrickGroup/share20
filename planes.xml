@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<inventory>
+  <planes>
+     <plane make="Cessna" model="Skyhawk">
+        <year> 1977 </year>
+        <color> Light blue and white </color>
+     </plane>
+     <plane make="Piper" model="Apache">
+        <year> 1975 </year>
+        <color> White </color>
+     </plane>   
+     <plane make="Cessna" model="Centurian">
+        <year> 1960 </year>
+        <color> Yellow and white </color>
+     </plane>
+     <plane make="Piper" model="Tripacer">
+        <year> 1956 </year>
+        <color> Blue </color>
+     </plane>
+  </planes>
+</inventory>
