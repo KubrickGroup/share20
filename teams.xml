@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<teams>
+  <team name="Bravo">
+     <members>Tom;Dick;Harry;George</members>
+  </team>
+  <team name="Charlie">
+     <members>Earl;Grace;Margo;John</members>
+  </team>
+</teams>
