@@ -1,0 +1,32 @@
+restaurant_name/latitude/longitude/price_range_£/monthly_turnover_£
+The Gourmet Garden/50.722261/-3.530480/15 - 30/10,000
+Riverside Bistro/50.723946/-3.532762/20 - 40/15,500
+The Olive Tree/50.724834/-3.531051/25 - 50/18,750
+The Rusty Fork/50.720795/-3.536163/10 - 20/8,500
+La Bella Vita/50.726389/-3.535322/30 - 60/22,000
+The Red Lion/50.724169/-3.532582/15 - 30/9,750
+Spice of India/50.722604/-3.532425/15 - 25/11,500
+The Secret Garden/50.725178/-3.532987/20 - 40/14,000
+The Cosy Corner/50.721932/-3.532090/10 - 20/7,500
+The Foodie's Haven/50.727011/-3.531399/30 - 50/19,500
+The Golden Dragon/50.722912/-3.535758/15 - 30/10,500
+Café Rouge/50.722678/-3.529984/20 - 40/16,200
+Pizzeria Italia/50.723543/-3.532093/25 - 50/18,250
+The Crusty Crab/50.724769/-3.533671/10 - 20/8,100
+Sushi Central/50.721311/-3.537288/30 - 60/21,500
+The Royal Oak/50.724049/-3.533128/15 - 30/9,300
+The Corner Café/50.723046/-3.531741/15 - 25/12,000
+Steakhouse Grill/50.725730/-3.534103/20 - 40/14,500
+Bella Napoli/50.721693/-3.531826/10 - 20/7,800
+The Green Spoon/50.727411/-3.530902/30 - 50/19,800
+The Hungry Pig/50.722764/-3.531425/15 - 30/10,200
+Indian Spice/50.722397/-3.534384/20 - 40/15,700
+Taste of Thailand/50.722130/-3.529718/25 - 50/18,800
+The Plough Inn/50.721994/-3.533478/10 - 20/8,700
+Mediterranean Delight/50.725157/-3.533793/30 - 60/22,500
+The Rose & Crown/50.724228/-3.530264/15 - 30/9,900
+The French Connection/50.723770/-3.532975/15 - 25/11,200
+Rustic Italian/50.725557/-3.535140/20 - 40/14,300
+The Local Kitchen/50.720930/-3.531135/10 - 20/7,200
+The Golden Harvest/50.727164/-3.529989/30 - 50/19,200
+The Spice Route/50.723850/-3.528863/15 - 30/10,800
