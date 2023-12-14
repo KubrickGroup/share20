@@ -94,16 +94,16 @@ VALUES
  
 INSERT INTO sales.salesrep ( empl_num, name, loginname, age, rep_office, title, manager, hire_date, quota, sales )
 VALUES
- ('101', 'Dan Roberts', 'droberts', 45, '12', 'Sales Rep', '104', '1996-10-20', 300000.00, 305673.00)
-,('102', 'Sue Smith', 'ssmith', 48, '21', 'Sales Rep', '108', '1996-12-10', 350000.00, 474050.00)
-,('103', 'Paul Cruz', 'pcruz', 29, '12', 'Sales Rep', '104', '1997-03-01', 275000.00, 286775.00)
-,('104', 'Bob Smith', 'bsmith', 33, '12', 'Sales Mrg', '106', '1997-05-19', 200000.00, 142594.00)
-,('105', 'Bill Adams', 'badams', 37, '13', 'Sales Rep', '104', '1996-02-12', 350000.00, 367911.00)
-,('106', 'Sam Clark', 'sclark', 52, '11', 'Vp Sales', NULL, '1998-06-14', 275000.00, 299912.00)
-,('107', 'Nancy Angelli', 'nangelli', 49, '22', 'Sales Rep', '108', '1998-11-14', 300000.00, 186042.00)
-,('108', 'Larry Fitch', 'lfitch', 62, '21', 'Sales Mrg', '106', '1999-10-12', 350000.00, 361865.00)
-,('109', 'Mary Jones', 'mjones', 31, '11', 'Sales Rep', '106', '1999-10-12', 300000.00, 392725.00)
-,('110', 'Tom Snyder', 'tsnyder', 41, NULL, 'Sales Rep', '101', '2000-01-13', NULL, 75985.00);
+ ('101', 'Dan Roberts', 'DROBERTS', 45, '12', 'Sales Rep', '104', '1996-10-20', 300000.00, 305673.00)
+,('102', 'Sue Smith', 'SSMITH', 48, '21', 'Sales Rep', '108', '1996-12-10', 350000.00, 474050.00)
+,('103', 'Paul Cruz', 'PCRUZ', 29, '12', 'Sales Rep', '104', '1997-03-01', 275000.00, 286775.00)
+,('104', 'Bob Smith', 'BSMITH', 33, '12', 'Sales Mrg', '106', '1997-05-19', 200000.00, 142594.00)
+,('105', 'Bill Adams', 'BADAMS', 37, '13', 'Sales Rep', '104', '1996-02-12', 350000.00, 367911.00)
+,('106', 'Sam Clark', 'SCLARK', 52, '11', 'Vp Sales', NULL, '1998-06-14', 275000.00, 299912.00)
+,('107', 'Nancy Angelli', 'NANGELLI', 49, '22', 'Sales Rep', '108', '1998-11-14', 300000.00, 186042.00)
+,('108', 'Larry Fitch', 'LFITCH', 62, '21', 'Sales Mrg', '106', '1999-10-12', 350000.00, 361865.00)
+,('109', 'Mary Jones', 'MJONES', 31, '11', 'Sales Rep', '106', '1999-10-12', 300000.00, 392725.00)
+,('110', 'Tom Snyder', 'TSNYDER', 41, NULL, 'Sales Rep', '101', '2000-01-13', NULL, 75985.00);
 
 INSERT INTO sales.customer ( cust_num, company, cust_rep, credit_limit )
 VALUES
