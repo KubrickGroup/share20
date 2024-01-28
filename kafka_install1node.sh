@@ -15,7 +15,7 @@ echo Installing Kafka Broker
 
 mkdir kafkainst
 cd kafkainst
-wget https://dlcdn.apache.org/kafka/3.2.3/kafka_2.12-3.2.3.tgz
+wget https://archive.apache.org/dist/kafka/3.2.3/kafka_2.12-3.2.3.tgz
 tar -zxf kafka_2.12-3.2.3.tgz
 sudo mv kafka_2.12-3.2.3 /usr/local/kafka
 mkdir /tmp/kafka-logs
