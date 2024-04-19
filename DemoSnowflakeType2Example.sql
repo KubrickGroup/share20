@@ -1,3 +1,13 @@
+USE test1;
+
+CREATE OR REPLACE SCHEMA staging;
+CREATE OR REPLACE SCHEMA dw;
+
+CREATE OR REPLACE TABLE staging.inventory (DimInventoryId INT NULL, assetcode VARCHAR(10) NULL, assetclass VARCHAR(100) NULL, countrycode VARCHAR(3) NULL);
+
+CREATE OR REPLACE TABLE dw.DimInventory (DimInventoryId INT NOT NULL IDENTITY PRIMARY KEY, assetcode VARCHAR(10) NOT NULL, assetclass VARCHAR(100) NOT NULL, countrycode VARCHAR(3) NOT NULL, startdate TIMESTAMP NOT NULL, enddate TIMESTAMP NOT NULL DEFAULT '9999-12-31T23:59:59.999'::timestamp, iscurrent CHAR(1) NOT NULL);
+
+
 /* Example type 2 load procedure - Inventory Dimension - Snowflake */
 CREATE OR REPLACE PROCEDURE staging.InventoryType2Load ()
 RETURNS INT
@@ -7,16 +17,6 @@ $$
     DECLARE dt TIMESTAMP;
     BEGIN
     dt := GETDATE();
-
-    TRUNCATE TABLE staging.inventory;
-
-    COPY INTO staging.inventory(assetcode, assetclass, countrycode)
-    FROM (
-        SELECT $1, $2, $3
-        FROM @staging.mystage as p
-    )
-    PATTERN = 'inventory.txt'
-    FILE_FORMAT = (TYPE = CSV FIELD_DELIMITER = '|' SKIP_HEADER = 1, FIELD_OPTIONALLY_ENCLOSED_BY = '"');
 
     MERGE INTO staging.inventory AS c
     USING (SELECT * FROM dw.DimInventory WHERE iscurrent = 'Y') AS d
@@ -32,9 +32,9 @@ $$
     USING staging.inventory AS c
     ON c.DimInventoryId = d.DimInventoryId -- surrogate key
     WHEN NOT MATCHED
-    THEN INSERT (DimInventoryId, assetcode, assetclass, countrycode
+    THEN INSERT (assetcode, assetclass, countrycode
                 , startdate, iscurrent)
-         VALUES (DimInventoryId, assetcode, assetclass, countrycode
+         VALUES (assetcode, assetclass, countrycode
                 , :dt, 'Y')
     WHEN MATCHED THEN UPDATE SET iscurrent = 'N', enddate = :dt;
 
@@ -42,5 +42,18 @@ $$
     END
 $$;
 
-/* Call the proceedure */
+/* Generate some randomized data */
+TRUNCATE TABLE staging.inventory;
+INSERT INTO staging.inventory (assetcode, assetclass, countrycode)
+    SELECT 'ABC',RANDSTR(5,RANDOM()),'USA'
+    UNION ALL
+    SELECT 'DEF',RANDSTR(5,RANDOM()),'USA';
+
+/* Type 2 load */
 CALL staging.InventoryType2Load ();
+
+SELECT *
+FROM dw.diminventory
+ORDER BY assetcode, startdate, enddate, DimInventoryId;
+
+
